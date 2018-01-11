@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="language" content="en-us" />
+    <meta name="description" content="Phantasm roleplaying convention held annualy in Peterborough Ontario Canada" />
+    <meta name="keywords" content="Phantasm, roleplaying convention, role-playing convention, Phantasm roleplaying convention" />
+    <meta name="robots" content="all" />
+    <meta name="author" content="Sara Manning" />
+    <meta name="copyright" content="© 2006, Phantasm" />
+    <title>Warhammer 40K Brawl in the Hall::Phantasm</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="slideshow.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" language="javascript" src="common.js"></script>
+    <script src="js/slideshow.js"></script>
+	<script>
+	    $(function() {
+	        // Create slideshow instances
+	        var $s = $('.slideshow').slides();
+
+	        // Access an instance API
+	        var api = $s.eq(0).data('slides');
+
+	        // Transition select
+	        $('select[name=transition]').on('change', function() {
+	            api.redraw(this.value);
+	        });
+	    });
+	</script>
+</head><body>
+
+
+<div id="outer">
+   <div id="middle">
+      <div id="inner">
+	    <!-- banner -->
+	    <div align="center"><img src="images/tophalflogo3.gif" alt="Phantasm roleplaying convention" /></div>
+		<!-- /banner -->
+       <!-- navigation -->
+        <div id="menu">
+        
+        </div>
+		<hr />
+		<!-- /navigation -->
+	    <!-- main content -->
+	    <h1>Brawl in the Hall</h1>
+	    <br />
+	    <div class="slideshow" data-transition="crossfade" data-loop="true" data-skip="false">
+			<ul class="carousel">
+				<li class="slide">
+					<img src="images/BitH/168529_199309450192264_1292612736_n.jpg" alt="" />
+				</li>
+				<li class="slide">
+					<img src="images/BitH/292954_229944293795446_282292741_n.jpg" alt="" />
+				</li>
+				<li class="slide">
+				    <img src="images/BitH/305082_229943727128836_614409285_n.jpg" alt="" />
+				</li>
+				<li class="slide">
+                    <img src="images/BitH/423984_124982054291671_1217233510_n.jpg" alt="" />
+				</li>
+				<li class="slide">
+                    <img src="images/BitH/544970_199308070192402_463275763_n.jpg" alt="" />
+				</li>
+				<li class="slide">
+                    <img src="images/BitH/553676_229943673795508_841994417_n.jpg" alt="" />
+				</li>
+				
+			</ul>
+		</div>
+	<!-- main content ends -->
+	    <!-- footer -->
+		  
+		<div id="footer">
+		</div>
+		<!-- /footer -->
+      </div>
+</div>
+<input type="hidden" id="pageRef" value="#l_warhammer" />
+</body>
+
+</html>

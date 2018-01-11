@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="language" content="en-us" />
+    <meta name="description" content="Phantasm roleplaying convention held annualy in Peterborough Ontario Canada" />
+    <meta name="keywords" content="Phantasm, roleplaying convention, role-playing convention, Phantasm roleplaying convention" />
+    <meta name="robots" content="all" />
+    <meta name="author" content="Sara Manning, Bryan McKellar" />
+    <meta name="copyright" content="© 2006, Phantasm" />
+    <title>Thanks::Phantasm</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <script src="js/jquery.js" type="text/javascript"></script> 
+    <script language="javascript" type="text/javascript" src="common.js"></script>
+                                               <script language="javascript" type="text/javascript">
+    $(document).ready(function () {
+        $.ajax({
+            type: "GET",
+            url: "schedule.xml",
+            dataType: "xml",
+            success: parseXml
+        });
+
+        function parseXml(xml) {
+            var column = 0;
+
+            $(xml).find("gamemasters").find("gm").each(function () {
+                var gmID = $(this).find("name").attr("id");
+
+                $("#tbST").append("<tr id='ST" + gmID + "'>");
+                $("#ST" + gmID).append("<td><a name='gm" + gmID + "'/>" + $(this).find("name").text());
+                $("#ST" + gmID).append("<td>" + $(this).find("description").text());
+            });
+        }
+    });
+</script>
+
+</head><body>
+
+<div id="outer">
+   <div id="middle">
+      <div id="inner">
+	    <!-- banner -->
+	    <div align="center"><img src="images/tophalflogo3.gif" alt="Phantasm roleplaying convention" /></div>
+		<!-- /banner -->
+      <!-- navigation -->
+        <div id="menu">
+        
+        </div>
+		<hr />
+		<!-- /navigation -->
+	<!-- main content -->
+	<h1>Thank You!</h1>
+        There are quite a few individuals that have really helped me put Phantasm together. Below is sort of the short list of those people.
+        <ul>
+      	<li>A special thanks goes out to the Brother Grimm for letting me take over Phantasm from them.</li>
+      	<li>The <a href="jenlogo.html">great original Phantasm logo is the work of Jen Doleman</a>. We greatly appreciate Jen letting us use it!</li>
+      	<li>Cyber Systems has be very generous with not only hosting our web site but also providing technical assistance.</li>
+		<li>Sara Manning for her complete redesign of the Phantasm site and artwork using Jen Doleman's original design as a base.</li>
+		<li>Bryan McKellar for his design of the posting boards and current web site support</li>
+        <li>The <a href="http://www.pfga.ca/" target="_blank">Peterborough Fish &amp; Game Association</a> for currently hosting the web site</li>
+            </ul>
+<p></p>
+          
+              The Business Community have been great in offering support for the convention. I'd like to thank:
+            <ul>
+          	<li><a href="http://www.chapters.indigo.ca/home" target="_blank">Chapters</a></li>
+          	<li><a href="http://www.dominos.ca" target="_blank">Domino's Pizza</a></li>
+          	<li><a href="http://www.pizzahut.ca" target="_blank">Pizza Hut</a></li>
+          	<li><a href="http://jeffsscc.tripod.com/" target="_blank">Jeff's Cards &amp; Comics</a></li>
+          	</ul>
+          <br />
+          <div id="StoryTellerList" class="schedule">
+              <h1>Story Tellers</h1>
+              <table class="schedule" border="2" id="tbST">
+                  <tr>
+                      <td class="title" width="30%">Game Master</td>
+                      <td class="title">Description</td>
+                  </tr>
+              </table>
+          </div>
+      	<!-- main content ends -->
+      	<!-- footer -->
+		<div id="footer">
+		
+		</div>
+		<!-- /footer -->
+      </div>
+   </div>
+</div>
+<input type="hidden" id="pageRef" value="#l_links" />
+</body>
+
+</html>

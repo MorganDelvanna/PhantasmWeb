@@ -1,0 +1,345 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="language" content="en-us" />
+    <meta name="description" content="Phantasm roleplaying convention held annualy in Peterborough Ontario Canada" />
+    <meta name="keywords" content="Phantasm, roleplaying convention, role-playing convention, Phantasm roleplaying convention" />
+    <meta name="robots" content="all" />
+    <meta name="author" content="Sara Manning, Bryan McKellar" />
+    <meta name="copyright" content="© 2006, Phantasm" />
+    <title>Events Schedule::Phantasm</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <script src="js/jquery.js" type="text/javascript"></script> 
+    <script language="javascript" type="text/javascript" src="common.js"></script>
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function() {
+            $.ajax({
+                type: "GET",
+                url: "schedule.xml",
+                dataType: "xml",
+                success: parseXml
+            });
+
+            function parseXml(xml) {
+
+                
+                /*
+                $(xml).find("day").each(function(index) {
+                    var dayId = $(this).find("dayid").text();
+
+                    $("#hDay" + dayId).append($(this).find("date").text());
+
+                    $(this).find("note").each(function() {
+                        var dayId = $(this).parent().find("dayid").text();
+                        $("#uDay" + dayId).append("<li><p align='left'>" + $(this).find("desc").text() + "</p></li>");
+                    });
+
+                    $(this).find("slot").each(function() {
+                        var slotId = 'tbSlotName' + $(this).attr("id");
+                        $("#" + slotId).append($(this).text());
+                    });
+                });
+            */
+            /*
+                $(xml).find("games").find("game").each(function() {
+                    var slotId = $(this).attr("slot");
+                    var gameId = $(this).attr("id");
+
+                    $("#tbSlot" + slotId).append("<tr id='game" + gameId + "'>")
+                    $("#game" + gameId).append("<td rowspan='2'>" + $(this).find("name").text());
+
+                    $("#game" + gameId).append("<td><a href='#gm" + $(this).find("gamemaster").attr("gmID") + "'>" + $(this).find("gamemaster").text() + "</a>");
+                    $("#game" + gameId).append("<td>" + $(this).find("title").text());
+
+                    $("#tbSlot" + slotId).append("<tr id='gameb" + gameId + "'>")
+                    $("#gameb" + gameId).append("<td colspan='2'>" + $(this).find("description").text());
+
+                });
+             */
+             /*
+                // Populate list of games from XML
+                var aGames = [];
+                var aNames =  $(xml).find("games").find("name").toArray();
+                var bFound; 
+                
+                for (var i = 0; i < aNames.length; i++) 
+                { 
+                    bFound = false;
+                    
+                    for (var x = 0; x < aGames.length; x++)
+                    {
+                        if (aGames[x] == aNames[i].text)
+                        {
+                            bFound = true;
+                            break;
+                        }
+                    }
+                    
+                    if (bFound == false)
+                    {
+                        aGames.push(aNames[i].text);
+                    }
+                }
+              
+                
+                aGames.sort();
+                for (var n = 0; n < aGames.length; n++)
+                {
+                    
+                    $('#sGame').append('<option value="' + (n + 1) + '">' + aGames[n] + '</option>');
+                }
+              */
+             
+/*                // Populate List of Story Tellers
+                var aST = [];
+                var aSTNames = $(xml).find("gamemasters").find("name").toArray();
+                
+                for (var i = 0; i < aSTNames.length; i++) 
+                { 
+                    bFound = false;
+                    
+                    for (var x = 0; x < aST.length; x++)
+                    {
+                        if (aST[x] == aSTNames[i].text)
+                        {
+                            bFound = true;
+                            break;
+                        }
+                    }
+                    
+                    if (bFound == false)
+                    {
+                        aST.push(aSTNames[i].text);
+                    }
+                }
+                
+                aST.sort();
+                for (var n = 0; n < aST.length; n++)
+                {
+                    $('#sStoryTeller').append('<option value="' + (n + 1) + '">' + aST[n] + '</option> ');
+                }
+                */
+               
+               $('#sSlot').change(function () 
+                { 
+                    showData(); 
+                });
+                
+                $('#sGame').change(function () 
+                { 
+                    showData(); 
+                });
+                
+                $('#sStoryTeller').change(function () 
+                { 
+                    showData(); 
+                });
+            }
+            
+
+            
+        function showData()
+        {
+            var nSlot = $('#sSlot').val();
+            var sGame = $('#sGame option:selected"').text();
+            var nST = $('#sStoryTeller option:selected"').text();
+/*
+            // Show\Hide Slots
+            if (nSlot == 0)
+            {
+  
+                $('div[id^="divSlot"]').show();
+                
+            } else 
+            {
+                $('div[id^="divSlot"]').hide();
+                $('div[id^="divSlot"]').each(function()
+                {
+                    var slotName = 'divSlot' + nSlot;
+                    
+                    if ($(this).attr('id') == slotName)
+                    {
+                        $(this).show();
+                    }
+                });
+            }
+            
+            // Show\Hide Games
+            if ($('#sGame').val() == 0 && $('#sStoryTeller').val() == 0)
+            {
+                $('tr[id^="game"]').show();
+            } else 
+            {
+                $('tr[id^="game"]').hide();
+                $('tr[id^="game"]').each(function()
+                {
+                    var testGame = $(this).find('td:first').text();
+                    var testST = $(this).find('td:first').next().text();
+                    var cellID = '#gameb' + $(this).attr('id').substring(4);
+  
+                    if ((sGame == testGame && nST == testST) || (sGame == testGame && $('#sStoryTeller').val() == 0) || ($('#sGame').val() == 0 && nST == testST))
+                    {
+                        $(this).show();
+                        $(cellID).show();
+                    }
+                });
+            }
+            */
+        }
+        });
+    </script>
+    </head>
+  <body>
+    <!-- banner -->
+    <div align="center"><img src="images/tophalflogo.gif" alt="Phantasm roleplaying convention" /></div>
+    <!-- /banner -->
+    <div id="outer">
+       <div id="middle">
+          <div id="inner">
+            <!-- navigation -->
+            <div id="menu">
+            </div>
+            <hr />
+            <!-- /navigation -->
+            <!-- main content -->
+ <!--            
+            <h1>Events Schedule</h1>
+            <p>Looking for lunch, dinner, or a snack?</p>
+            <ul>
+              <li>We will be offering the usual pop &amp; chips during the day</li>
+              <li>Domino's Pizza for lunch</li>
+              <li>Coffee and Tim Horton's donuts, &amp; muffins, for a quick breakfast.<br />Our coffee is organic and fair trade</li>
+              <li style="font-style:italic;">Bring your own cup and get your coffee at half price</li>
+              <li>The are also several restaurants within walking distance of the Library</li>
+            </ul>
+            <h1>Events Schedule</h1>
+            <table>
+            <tr>
+            <td>Time slot:<br />
+                <select id="sSlot">
+                <option value="0">All Slots</option>
+                <option value="1">Saturday Morning</option>
+                <option value="2">Saturday Afternoon</option>
+                <option value="3">Saturday Evening</option>
+                <option value="4">Sunday Morning</option>
+                <option value="5">Sunday Afternoon</option>
+                </select>
+            </td>
+            <td>
+                Game:<br />
+                <select id="sGame" style="width:300px;">
+                    <option value="0">All Games</option>
+                </select>
+            </td>
+            <td>
+                Story Teller:<br />
+                <select id="sStoryTeller"  style="width:200px;">
+                    <option value="0">All Story Tellers</option>
+                </select>
+            </td>
+            </tr>
+            </table>
+            <br />
+           
+            <div id="dDay1">
+                <h1 id="hDay1"></h1>
+                <ul id="uDay1">
+                    
+                </ul> 
+                <div id="divSlot1">
+                    <table class='schedule' border='2' id="tbSlot1">
+                        <tr>
+                            <td class='title' colspan='3' id="tbSlotName1"></td>
+                        </tr>
+                        <tr>
+                            <td class='title' width='20%'>Game</td>
+                            <td class='title' width='40%'>Game Master</td>
+                            <td class='title' width='40%'>Title</td>
+                        </tr>
+                    </table> 
+                    
+                    <img src='images/dragon_splitter.gif' alt='Phantasm' /> 
+                </div>
+                <div id="divSlot2">
+                    <table class='schedule' border='2' id="tbSlot2">
+                        <tr>
+                            <td class='title' colspan='3' id="tbSlotName2"></td>
+                        </tr>
+                        <tr>
+                            <td class='title' width='20%'>Game</td>
+                            <td class='title' width='40%'>Game Master</td>
+                            <td class='title' width='40%'>Title</td>
+                        </tr>
+                    </table>
+                    
+                    <img src='images/dragon_splitter.gif' alt='Phantasm' /> 
+                </div>
+                <div id="divSlot3">
+                    <table class='schedule' border='2' id="tbSlot3">
+                        <tr>
+                            <td class='title' colspan='3' id="tbSlotName3"></td>
+                        </tr>
+                        <tr>
+                            <td class='title' width='20%'>Game</td>
+                            <td class='title' width='40%'>Game Master</td>
+                            <td class='title' width='40%'>Title</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="dDay2">
+                <h1 id="hDay2"></h1>
+                <ul id="uDay2">
+                
+                </ul> 
+                <div id="divSlot4">
+                    <table class='schedule' border='2' id="tbSlot4">
+                        <tr>
+                            <td class='title' colspan='3' id="tbSlotName4"></td>
+                        </tr>
+                        <tr>
+                            <td class='title' width='20%'>Game</td>
+                            <td class='title' width='40%'>Game Master</td>
+                            <td class='title' width='40%'>Title</td>
+                        </tr>
+                    </table> 
+                    
+                    <img src='images/dragon_splitter.gif' alt='Phantasm' /> 
+                </div>
+                <div id="divSlot5">
+                    <table class='schedule' border='2' id="tbSlot5">
+                        <tr>
+                            <td class='title' colspan='3' id="tbSlotName5"></td>
+                        </tr>
+                        <tr>
+                            <td class='title' width='20%'>Game</td>
+                            <td class='title' width='40%'>Game Master</td>
+                            <td class='title' width='40%'>Title</td>
+                        </tr>
+                    </table>
+                    
+                    <img src='images/dragon_splitter.gif' alt='Phantasm' /> 
+                </div>
+            </div>
+
+              <br />
+             <div id="StoryTellerList">
+              <h1>Story Tellers</h1>
+            </div>
+  -->
+            <!-- footer -->
+		    <div id="footer">
+            </div>
+		    <!-- /footer -->
+          </div>
+            
+        </div>
+    </div>
+    <!-- scroll bottom image -->
+    <div align="center"><img alt="" src="images/scrollbottom.gif" /></div>
+    <!-- /scroll bottom image -->
+        <input type="hidden" id="pageRef" value="#l_schedule" />
+  </body>
+      </html>

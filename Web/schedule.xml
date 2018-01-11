@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="schedule.xsl"?>
+<schedule>
+	<day id="1">
+		<date>September 26th, 2014</date>
+		<weekday>Friday</weekday>
+		<slot id="1">Evening 7:00 pm to 11:00 pm - Free admission Friday night</slot>
+	</day>
+	<day id="2">
+		<date>March 25th, 2017</date>
+		<weekday>Saturday</weekday>
+		<slot id="4">Evening 8:00 pm to 12:00 pm</slot>
+		<slot id="3">Afternoon 3:00 pm to 7:00 pm</slot>
+		<slot id="2">Morning 10:00 am to 2:00 pm</slot>
+		<note dayid="2">
+			<desc>
+				<![CDATA[
+                <b>Phantasm Yard Sale the Details:</b>
+                <ul>
+                    <li>Bring in your stuff &amp; we’ll sell it for you while you play.</li>
+                    <li>Yard Sale we be open from noon on Sat until 5pm on Sunday.</li>
+                    <li>You must have a list of what you are selling, with all of the prices on the items along with your initials (I’d suggest using stickers for this). All prices must be rounded to the nearest whole dollar.</li>
+                    <li>Phantasm holds no responsibility for the items (though we will have someone there &amp; no-one has ever stolen anything from a table), has the right to opt not to sell an item, and will keep 10% of the value of the items sold.</li>
+                </ul>]]>
+			</desc>
+		</note>
+	</day>
+	<day id="3">
+		<date>March 26th, 2017</date>
+		<weekday>Sunday</weekday>
+		<slot id="6">Afternoon 3:00 pm to 7:00 pm</slot>
+		<slot id="5">Morning 10:00 am to 2:00 pm</slot>
+		<note dayid="3">
+			<desc></desc>
+		</note>
+	</day>
+	<games>
+		<game slot="2" id="1">
+			<name>One Ring</name>
+			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<title><![CDATA[The messengers to Dol Arnoth]]></title>
+			<description><![CDATA[(From the Riddermark to the steps of Shadow: Part 1- An adventure with the One Ring System)<br /><br />You and your companions have passed the long cold winter; one of the longest in remembrance in the warm halls of you Patron Thengel son of Fengel, King of the Rohirrim. You have through bravery and wisdom won a place of Honor in Edoras the hall of the king. As spring, dawns and your minds turn again to adventure a lack of new troubles the Heart of the king. The messengers he sent to his Queens kin, Prince Adrhil II of Dol Anroth has neither returned nor sent word. Tasked by the king you will set off to find what has become of his men, and his gift of peace to his Gondorian Kin.]]></description>
+		</game>
+		<game slot="2" id="2">
+			<name>Shadowrun</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[On the Graves of Old Monsters]]></title>
+			<description><![CDATA[A construction site that has recently gone up in Auburn has fallen under some scrutiny from Mr. Johnson´s organization and he wants to halt construction in a big way.  He´s asked you to liberate a powerful mage to help make a statement that NeoNET won´t soon forget.]]></description>
+		</game>
+		<game slot="2" id="3">
+			<name>Team Yankee Demo</name>
+			<gamemaster gmID="90">Jacob H.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[its 1985 and the Cold War just went Hot! Can NATO forces hold back the Soviet hordes or will the Warsaw Pact create a new united and communist Germany? Only you can decide! <br /><br />Team Yankee is a 1/100 company sized wargame in which you enact the what ifs of this great period of tension between east and west. Games are fast paced and deadly, and fairly easy to learn. Using a traditional I go, you go system.]]></description>
+		</game>
+		<game slot="2" id="4">
+			<name>Star Commander Role Playing Game</name>
+			<gamemaster gmID="133">Terry P.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[THE YEAR IS 2309<br /><br />Man kind has almost completed the last of the space stations decided upon when Star Command was founded. It has taken a century to get here. Humans have bound together in to one cohesive force called Star Command to complete this task effectively ending war for the Human race.<br /><br />As a member of Star Command you will explore the stars uncovering endless opportunities to produce wealth and gain power within the Alliances.<br /><br />The only known race at this time is Human.<br />Characters are created using the rules of the Open Legend Role-playing system.<br />You will then be assigned your missions by Star Command.<br /><br />It is on your first mission that you will discover a new threat to the Galaxy...]]></description>
+		</game>
+		<game slot="2" id="5">
+			<name>Near &amp; Far (Boardgame)</name>
+			<gamemaster gmID="94">Bryan C.</gamemaster>
+			<title><![CDATA[Board Game]]></title>
+			<description><![CDATA[In Near and Far up to 4 players each choose a character and set out on a journey, recruiting adventurers, managing resources, and completing quests in an effort to become the most storied traveler.]]></description>
+		</game>
+		<game slot="2" id="6">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="2" id="7">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="2" id="8">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="2" id="9">
+			<name>Open Legend</name>
+			<gamemaster gmID="132">Terry B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Open Legend is a tabletop roleplaying game (or RPG) in which the players play the part of mighty heroes and wicked villains in order to tell stories of epic proportion. In each game of Open Legend, the intrepid characters will fight mythic beasts, break ancient curses, unravel mysterious enigmas, discover treasures untold, and more. http://www.openlegendrpg.com/]]></description>
+		</game>
+		<game slot="2" id="10">
+			<name>Dresden Files RPG</name>
+			<gamemaster gmID="131">Sean</gamemaster>
+			<title><![CDATA[Clash of Kings]]></title>
+			<description><![CDATA[Everyone knows that guy. You know, the one that´s never wrong and knows some weird stuff. That´s Chucky. When he tells you you should look into a small town that disappeared overnight to a man, who are you to say no?]]></description>
+		</game>
+		<game slot="2" id="11">
+			<name>Ironclaw</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[Hungry Hungry Hippos: Hungry for Justice]]></title>
+			<description><![CDATA[The Hippo family is under attack it is up to you to find out who is attacking deliver sweet sweet justice.]]></description>
+		</game>
+		<game slot="2" id="12">
+			<name>He-Man</name>
+			<gamemaster gmID="35">James Kerr</gamemaster>
+			<title><![CDATA[and Masters of the Universe RPG]]></title>
+			<description><![CDATA[This is a story game (eewww!) without dice (yuck!) - actually there are dice sometimes - faithfully creating an episode of "He-Man and the Masters of the Universe" from opening punch to closing Public Service Announcement. There are many systems for excellently representing barbarians with blasters, so this does not try to be one of them. Instead, it is 19-eighty-something, and you are a six to ten-year-old child, playing with your friends until the final battle is won for good, and Skeletor cries: "I´ll get you He-Man, if it´s the last thing I do!"]]></description>
+		</game>
+		<game slot="2" id="13">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="49">Justin L.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[You are hired by the Kings Historian to enter the unearthed tomb of Rakross. A long dead General known for his brutility and use of dark magic. All he wants are the books, the rest is yours for the taking.<br /><br />Come join in a classic dungeon crawl of sword, sorcery and mysticism.]]></description>
+		</game>
+		<game slot="2" id="14">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="134">Geoff L.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="3" id="15">
+			<name>One Ring</name>
+			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<title><![CDATA[In service to the Steward of Gondor]]></title>
+			<description><![CDATA[(From the Riddermark to the steps of Shadow: Part 2- An adventure with the One Ring System)<br /><br />You have only just arrived, and already it may be too late. All of Gondor searches for the missing son of the Steward of Minas Tirith. Dennathor II, the son of Ecthelion II and betrothed to Finduilas daughter of Prince Adrahil II is missing. Seeking to be claim status as a hero, and find a lost treasure the boy has followed dark dreams in search of a vision of an item of power. Until the boy is found and returned, there can be no talk of alliance or assistance. At the request of the Prince, and driven by dreams and portents the Fellowship strikes out in search of the missing boy. Will you find him before all including the future of Middle Earth is plunged to chaos and shadow.]]></description>
+		</game>
+		<game slot="3" id="16">
+			<name>Marvel Super Heroes</name>
+			<gamemaster gmID="1">Adam G.</gamemaster>
+			<title><![CDATA[Cogs in the Machine]]></title>
+			<description><![CDATA[A nefarious new villain has arrived on the scene, and their minions and clever contraptions are creating mayhem throughout Texas. Will your heroic efforts be enough to foil the villain’s odious schemes and bring peace back to the Lone Star state?]]></description>
+		</game>
+		<game slot="3" id="17">
+			<name>7th Seas 2nd ed</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Hiding in Plain Sight]]></title>
+			<description><![CDATA[While selling their wares in Five Sails, the Heroes are approached by a desperate old Sarmatian man, who requires able bodied people to lift a curse leveled on his home town of Nidzica.  Drought has gripped an area during the rainy season that they fear famine will follow.  The Heroes are asked to go into Rzeczpospolita to investigate in a nation of democracy, demons and divergent cultures to discover who has cursed this village and put an end to it.]]></description>
+		</game>
+		<game slot="3" id="18">
+			<name>Team Yankee exhibition game</name>
+			<gamemaster gmID="90">Jacob H.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[Commander! The 70th Guards armoured brigade has been tasked to break through NORTHAGs front line and advance toward the Rhine! Attack!]]></description>
+		</game>
+		<game slot="3" id="19">
+			<name>Star Commander Role Playing Game</name>
+			<gamemaster gmID="133">Terry P.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[THE YEAR IS 2309<br /><br />Man kind has almost completed the last of the space stations decided upon when Star Command was founded. It has taken a century to get here. Humans have bound together in to one cohesive force called Star Command to complete this task effectively ending war for the Human race.<br /><br />As a member of Star Command you will explore the stars uncovering endless opportunities to produce wealth and gain power within the Alliances.<br /><br />The only known race at this time is Human.<br />Characters are created using the rules of the Open Legend Role-playing system.<br />You will then be assigned your missions by Star Command.<br /><br />It is on your first mission that you will discover a new threat to the Galaxy...]]></description>
+		</game>
+		<game slot="3" id="20">
+			<name>Legend of the Five Rings</name>
+			<gamemaster gmID="94">Bryan C.</gamemaster>
+			<title><![CDATA[Emerald Stars]]></title>
+			<description><![CDATA[The samurai of Rokugan have long since conquered their home planet and expanded out into the stars. The Great Clans now control a vast Empire of worlds containing many wonders and dangers, but darkness lurks on the edge of their boarders, can they survive the unknown threats facing the Emerald Empire? The Emerald Stars campaign setting takes L5R into space with fantastical swords made of alien metals and energy weapons capable of killing a foe from 1000´ paces.]]></description>
+		</game>
+		<game slot="3" id="21">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="3" id="22">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="3" id="23">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="3" id="24">
+			<name>Gildor Games System</name>
+			<gamemaster gmID="73">Steve C.</gamemaster>
+			<title><![CDATA[The Curious Courtship of Lady Miranda]]></title>
+			<description><![CDATA[Ahead of you on the road to fey-haunted Seven Mile Wood, you see a splendid pavilion tent in blue and yellow, the Duke´s colours. You hear a resounding boom. Sounds like someone -- or something -- has recklessly fired a plot device!<br /><br />(6-ish players, beginners absolutely welcome)]]></description>
+		</game>
+		<game slot="3" id="25">
+			<name>West End Games Star Wars 2nd Edition</name>
+			<gamemaster gmID="131">Sean</gamemaster>
+			<title><![CDATA[Runaway Dogs of War]]></title>
+			<description><![CDATA[No one ever said being a storm trooper was easy. No one ever said it would be glamorous. But everyone in your squad has surpassed that limit. The last straw was that dirty rotten imp killing the lieutenant. So the brig isn´t so bad. The summary execution when we get back to Coruscant. What now?]]></description>
+		</game>
+		<game slot="3" id="26">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[Smurfy Shades of Grey]]></title>
+			<description><![CDATA[Having retreated from the forest to the mountains during the dracolich attacks it´s time to investigate what the mountain hides]]></description>
+		</game>
+		<game slot="3" id="27">
+			<name>Iron Kingdom RPG</name>
+			<gamemaster gmID="98">Shawn L.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[8 years ago, the crew of the HMS Harpoon Set sail to the west when the captain had heard rumors of an untapped gold mine on an island a few hundred miles to the west. Eager to seize the opportunity, the ship set sail with a scouting crew, and a curious academic by the name of Gabriel Ruthven. When what was left of the crew returned empty handed, they never spoke of what happened. Many of the crew never took to the sea again, and even Professor Ruthven, seemingly still of sound mind, doesn´t speak of what transpired on that voyage. <br /><br />Assume the role of a member of the crew of the Harpoon, and be one of the select few who are privy to the events that happened on that fateful voyage. Learn how a simple treasure hunt becomes the foreshadow to one of the biggest supernatural events in the Iron Kingdoms, and sets a young academic and former CRS Investigator down an academic path that puts him in touch with a power that is older than historic memory, and what kind of villainy broke the minds of an entire crew in this Iron Kingdoms Adventure]]></description>
+		</game>
+		<game slot="3" id="28">
+			<name>Dungeons &amp; Dragons (BECMI)</name>
+			<gamemaster gmID="35">James Kerr</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Come back to the D&D Basic of yore, the original fantasy setting - when elf was a class, spells were few but mighty, and a common house-cat could kill your entire party. Level appropriate encounters? Pshaw! Peril! Few Hit Points! Save or DIE! This is the granddaddy of gritty. No XP necessary; bring only your dice, and your sense of adventure!]]></description>
+		</game>
+		<game slot="3" id="29">
+			<name>Robotech RPG Tactics</name>
+			<gamemaster gmID="135">Robert S.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[repare for invasion! Robotech RPG Tactics is a tactical miniatures game set in the Robotech universe. While the 1/285th scale game pieces can be used as a companion to the Robotech RPG, the game system is designed to be played as a tabletop miniatures game. Players build armies of multiple squadrons of mecha to fight it out in scenario-driven, objective-based game play. Take command of the fighting forces of the United Earth Defense Force (UEDF) valiantly defending Earth from alien annihilation – or lead the massive clone armies of the Zentraedi Armada to recover an alien artifact of immense power and enslave humankind.]]></description>
+		</game>
+		<game slot="3" id="30">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="136">Russell M</gamemaster>
+			<title><![CDATA[Adventurers League]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="3" id="31">
+			<name>Coriolis</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[Dark Flowers]]></title>
+			<description><![CDATA[The Narzalus and it´s crew were passing through the Dabaran system on a routine trade mission when they are contacted by The Foundation. They are asked to proceed to a set of coordinates and investigate the disappearance of a missing ship carrying one of its researchers, a professor Siyab Dahiljaba. For valuable information about what has happened to the ship, they will be paid 10,000 birr. If they can return the ship or the researcher, they will be paid double that.<br />The scenario starts when the ship arrives at the coordinates and find the old research station. Unfortunately for the Narzalus (and indeed for the crew of the survey ship), they have stumbled upon a century old secret, and now face a strange force that threatens to spread]]></description>
+		</game>
+		<game slot="4" id="32">
+			<name>One Ring</name>
+			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<title><![CDATA[Dark Men and Shadow from Beyond the Black Gate]]></title>
+			<description><![CDATA[(From the Riddermark to the steps of Shadow: Part 3- An adventure with the One Ring System)<br /><br />The boy is returned and Ecthelion has agreed to the Princes proposal of peace and aid. “In the days of shadow to come, if ever the men of Rohan require aid they have but to light the beacons and Gondor shall come to their aid as you shall to ours in our darkest days.” As a sign of accord between these men the Steward has entrusted you with a Blade of Ancient Numenor, a fine weapon wrought against the shadow, your fellowship shall see it delivered, as sealed promise, safely to King Thengel’s hall in Edoras. The journey is long, and there are those servants of Shadow who would not see an Alliance between the kingdoms of men. Gondor yet lies in the reach of the growing shadow and you have many days travel before you journey is done.]]></description>
+		</game>
+		<game slot="4" id="33">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="76">Michel L.</gamemaster>
+			<title><![CDATA[The Never Ending Nightmare]]></title>
+			<description><![CDATA[Can you survive just one day?  A day can be a very long time under the wrong circumstances.  24 hours of horror can seem like a lot longer.. sometimes forever.]]></description>
+		</game>
+		<game slot="4" id="34">
+			<name>Star Commander Role Playing Game</name>
+			<gamemaster gmID="133">Terry P.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[THE YEAR IS 2309<br /><br />Man kind has almost completed the last of the space stations decided upon when Star Command was founded. It has taken a century to get here. Humans have bound together in to one cohesive force called Star Command to complete this task effectively ending war for the Human race.<br /><br />As a member of Star Command you will explore the stars uncovering endless opportunities to produce wealth and gain power within the Alliances.<br /><br />The only known race at this time is Human.<br />Characters are created using the rules of the Open Legend Role-playing system.<br />You will then be assigned your missions by Star Command.<br /><br />It is on your first mission that you will discover a new threat to the Galaxy...]]></description>
+		</game>
+		<game slot="4" id="35">
+			<name>Masks</name>
+			<gamemaster gmID="94">Bryan C.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[You are members of the fourth generation of superheroes. Young adults trying to figure out who they are and what kind of heroes they want to be. The rest of the world is telling you what to do, but you need to find your own path amidst the noise and save the day along the way. What’s the point of being a hero if you can’t fight for the things you believe in?]]></description>
+		</game>
+		<game slot="4" id="36">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="4" id="37">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="4" id="38">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="4" id="39">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="129">Joe N.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The Druids of the Sacred Orb in Helmsgrove have always been adept at curing lycanthropy, but one among their number has suffered a curse of the werebeast that no divine healing can purge. You, stalwart adventurers, must quest to find a cure for the incurable, and you must do so before the next full moon – mere days away – lest the victim´s dormant savagery be unleashed upon the town!<br /><br />This is a Dungeons & Dragons 5th Edition adventure for 2 to 5 players. No prior experience with role-playing games is assumed; newcomers are welcome and will learn by playing. Pre-generated character sheets and miniatures will be provided.]]></description>
+		</game>
+		<game slot="4" id="40">
+			<name>All Flesh Must be Eaten</name>
+			<gamemaster gmID="131">Sean</gamemaster>
+			<title><![CDATA[A Bloodbath at the Old Time Hockey Game]]></title>
+			<description><![CDATA[Who could say no to the old timers hockey game at the memorial centre?  Not you that´s who. The place wasn´t packed when the teams hit the ice. The old timers sure were moving weird. They can´t really be eating the other team can they?  Why are all the exterior doors locked and barricaded?]]></description>
+		</game>
+		<game slot="4" id="41">
+			<name>Tales from the Loop</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[Summer Break and Killer Birds]]></title>
+			<description><![CDATA[Summertime. Neverending days spent roaming the countryside looking for something to do. Boredom and bliss in equal measure. But underneath the Hot Colorado summer, something stirs. Something is wrong. It begins with a talking bird, and soon the Kids are involved in a nefarious plot. Can they solve the Mystery before it is too late?]]></description>
+		</game>
+		<game slot="4" id="42">
+			<name>X-Wing</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[Control the most advanced starfighters and outstanding pilots in the galaxy! In X-Wing Miniatures Game, you take the role of squad leader and command a group of merciless Imperial or daring Rebel pilots in furious ship-to-ship space combat.]]></description>
+		</game>
+		<game slot="4" id="43">
+			<name>Wings of Glory</name>
+			<gamemaster gmID="135">Robert S.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[Wings of Glory is a game system that allows players to recreate aerial combat during World War I and II, using cards and miniatures to represent the airplanes and their maneuvers. In Wings of Glory players will control one or more airplanes, taking to the skies to engage their opponents in aerial duels, or trying to accomplish a specific mission, such as recon, escort, or bombing.]]></description>
+		</game>
+		<game slot="4" id="44">
+			<name>Vamipire LARP</name>
+			<gamemaster gmID="39">Jason B.</gamemaster>
+			<title><![CDATA[Sand, Snakes and Secrets]]></title>
+			<description><![CDATA[The sand surrounding Los Vegas hides many secrets and now that the Independents have formed their alliance, it hides even more, as a neutral place for Kindred to come and mingle, Sabbat, Camarilla, The Independents, even other creatures have been seen in the clubs beneath the Masquerade. A gathering of elders connected by a strange thread is rumoured to be happening in Vegas, One of the Anathema, the Red Listed Kindred of The Camarilla is drawing resources together for something.. . Will you attend the Giovanni Celebration and see what one of the Anathema wants from from the sands (of time?)<br /><br />Pre-registration is requested to ensure that all characters have interesting character hooks and links to other characters to enhance your experience. Please feel free to provide suggestions about what you wish to play, but there is no quarantee you will get what you ask for. Pre-register by emailing congame@witchscauldron.net<br /><br />A Vampire: The Masquerade 3rd Edition Rules Larp, using the extended backstory presented in the ´By Night´ revamp of the rules to extend the metaplot.<br />The LARP is going to be held at Phantasm Role-Playing Convention at the Holiday Inn - Lakefront, Peterborough, Ontario, on Saturday September 9th 2017. Registration opens at 7:30, Game starts at 8:00. For more information about the convention, check out phantasm.pfga.ca. Contact the Storyteller Jason Barker by email at congame@witchscauldron.net.]]></description>
+		</game>
+		<game slot="5" id="45">
+			<name>Fate</name>
+			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<title><![CDATA[Eagles of Rome – The Serpent in the Senate]]></title>
+			<description><![CDATA[There was a dream once that was Rome … and there are those that would see it cast down. (You are an eagle of Rome. A secret agent of the senate tasked with keeping the republic alive.) <br /><br />Senator Giaus Tovinus is scheming with foreign power. He abuses his position in the Senate and his friendship with the Consul of Rome (Gacius Lucio Tempus) to cover his actions. It is impossible to move publicly against a man beloved by the people.  None knows what his ambition is. Whether it be treason or power, as an Eagle, an agent of the senate it is left to you and your allies to find proof of the traitor’s schemes. Bring him down, expose him for the world to see, and if necessary bleed his life’s blood in the street, you will do what you must to protect the republic.]]></description>
+		</game>
+		<game slot="5" id="46">
+			<name>Shadowrun</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Loss of Appetite]]></title>
+			<description><![CDATA[As the megacorporate audit heats up, the large corporations around the globe are striking their rivals where it hurts.  While many corporations are reeling from the controversies surrounding them and divisive politics, on the surface Aztechnology is looking strong.  However, the recent wars they´ve waged have raised hell on their agricultural output and Mr. Johnson wants to kick them when they´re down.  You´re being hired to destroy the entire crop at a local agricorp to make the Aztecs lose more ground in the food business.]]></description>
+		</game>
+		<game slot="5" id="47">
+			<name>Star Commander Role Playing Game</name>
+			<gamemaster gmID="133">Terry P.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[THE YEAR IS 2309<br /><br />Man kind has almost completed the last of the space stations decided upon when Star Command was founded. It has taken a century to get here. Humans have bound together in to one cohesive force called Star Command to complete this task effectively ending war for the Human race.<br /><br />As a member of Star Command you will explore the stars uncovering endless opportunities to produce wealth and gain power within the Alliances.<br /><br />The only known race at this time is Human.<br />Characters are created using the rules of the Open Legend Role-playing system.<br />You will then be assigned your missions by Star Command.<br /><br />It is on your first mission that you will discover a new threat to the Galaxy...]]></description>
+		</game>
+		<game slot="5" id="48">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="5" id="49">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="5" id="50">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="5" id="51">
+			<name>Ironclaw</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[Hungry Hungry Hippos: Hungry for Justice]]></title>
+			<description><![CDATA[The Hippo family is under attack it is up to you to find out who is attacking deliver sweet sweet justice.]]></description>
+		</game>
+		<game slot="5" id="52">
+			<name>Mutants and Masterminds 2nd Edition (Suicide Squad)</name>
+			<gamemaster gmID="131">Sean</gamemaster>
+			<title><![CDATA[Angels and Demons Mmmkay]]></title>
+			<description><![CDATA[Waller is up to her old shenanigans again. This time the mission is simple, covertly get into a non de script building, gain access to the secret lab, and extract the target. Except the target is not who you´d expect and they aren´t going anywhere without convincing.]]></description>
+		</game>
+		<game slot="5" id="53">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="14">Craig M.</gamemaster>
+			<title><![CDATA[Grimm and Bear it`]]></title>
+			<description><![CDATA[What manner of Bear rips apart whole packs of wolves and war parties of barbarians. King Kikhum Grimm of the Wolf clan smiles at his brother Grimble and says “Enough King work for now, lets go hunt Bear!”]]></description>
+		</game>
+		<game slot="5" id="54">
+			<name>Fantasy AGE</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[The Choosing Night]]></title>
+			<description><![CDATA[Each Year the Young Adults of Highfalls Swale set out to the ruins of the Tower of Dunmara for an overnight celebration without the watchful eyes of their elders -- As a rite of passage to adult hood. The ritual is known as Choosing Night.<br /><br />But unlike so many previous Choosing nights, this one is different. A Lunar eclipse and an alignment of arcane forces unleash a terrible threat to the young people on the island, and potentially to all the people of the Swale itself.]]></description>
+		</game>
+		<game slot="5" id="55">
+			<name>Star Wars: Armada</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[Rebel and Imperial fleets fight for the fate of the galaxy in Star Wars™: Armada, the two-player miniatures game of epic Star Wars space battles!]]></description>
+		</game>
+		<game slot="5" id="56">
+			<name>He-Man</name>
+			<gamemaster gmID="35">James Kerr</gamemaster>
+			<title><![CDATA[and Masters of the Universe RPG]]></title>
+			<description><![CDATA[This is a story game (eewww!) without dice (yuck!) - actually there are dice sometimes - faithfully creating an episode of "He-Man and the Masters of the Universe" from opening punch to closing Public Service Announcement. There are many systems for excellently representing barbarians with blasters, so this does not try to be one of them. Instead, it is 19-eighty-something, and you are a six to ten-year-old child, playing with your friends until the final battle is won for good, and Skeletor cries: "I´ll get you He-Man, if it´s the last thing I do!"]]></description>
+		</game>
+		<game slot="5" id="57">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="49">Justin L.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[You are hired by the Kings Historian to enter the unearthed tomb of Rakross. A long dead General known for his brutility and use of dark magic. All he wants are the books, the rest is yours for the taking.<br /><br />Come join in a classic dungeon crawl of sword, sorcery and mysticism.]]></description>
+		</game>
+		<game slot="5" id="58">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="136">Russell M</gamemaster>
+			<title><![CDATA[Adventurers League]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="6" id="59">
+			<name>Fate</name>
+			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<title><![CDATA[Eagles of Rome – The lust of the flesh, and the pride of life, leads men to destruction.]]></title>
+			<description><![CDATA[There was a dream once that was Rome … and there are those that would see it cast down. (You are an eagle of Rome. A secret agent of the senate tasked with keeping the republic alive.) <br /><br />The consuls of Rome are elected. They are leaders, men who rule for a time. The time has come for Conul Maximus Cissero Septimus to lay aside his power and take again his place in the senate. However, through maneuvering and clever plays of power he has remained in power far too long. He has lulled the people with games and parties, lavish expenses, paid for with unaccounted coin. The sentate has tasked you with finding the truth. Who is behind this great man’s folly? Who has set Cissero on the path to believing he could be a king. The republic will not tolerate such a tyrant. He must be stopped, and if he cannot be reasoned with he must be persuaded, find his secrets and use them. Remember fallen though he is, he is a Consul of Rome and his blood may be more precious than your life.]]></description>
+		</game>
+		<game slot="6" id="60">
+			<name>d20 Modern</name>
+			<gamemaster gmID="1">Adam G.</gamemaster>
+			<title><![CDATA[Snow Day by the Bay]]></title>
+			<description><![CDATA[You wake up to a day of icy wind and knee-deep snow… but yesterday was the hottest day in July! As the temperature continues to drop, it’s up to you to bring summer back to the streets of San Francisco.]]></description>
+		</game>
+		<game slot="6" id="61">
+			<name>Star Commander Role Playing Game</name>
+			<gamemaster gmID="133">Terry P.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[THE YEAR IS 2309<br /><br />Man kind has almost completed the last of the space stations decided upon when Star Command was founded. It has taken a century to get here. Humans have bound together in to one cohesive force called Star Command to complete this task effectively ending war for the Human race.<br /><br />As a member of Star Command you will explore the stars uncovering endless opportunities to produce wealth and gain power within the Alliances.<br /><br />The only known race at this time is Human.<br />Characters are created using the rules of the Open Legend Role-playing system.<br />You will then be assigned your missions by Star Command.<br /><br />It is on your first mission that you will discover a new threat to the Galaxy...]]></description>
+		</game>
+		<game slot="6" id="62">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="6" id="63">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="6" id="64">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="6" id="65">
+			<name>Dungeons &amp; Dragons (BECMI)</name>
+			<gamemaster gmID="35">James Kerr</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Come back to the D&D Basic of yore, the original fantasy setting - when elf was a class, spells were few but mighty, and a common house-cat could kill your entire party. Level appropriate encounters? Pshaw! Peril! Few Hit Points! Save or DIE! This is the granddaddy of gritty. No XP necessary; bring only your dice, and your sense of adventure!]]></description>
+		</game>
+		<game slot="6" id="66">
+			<name>Open Legend</name>
+			<gamemaster gmID="132">Terry B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Open Legend is a tabletop roleplaying game (or RPG) in which the players play the part of mighty heroes and wicked villains in order to tell stories of epic proportion. In each game of Open Legend, the intrepid characters will fight mythic beasts, break ancient curses, unravel mysterious enigmas, discover treasures untold, and more. http://www.openlegendrpg.com/]]></description>
+		</game>
+		<game slot="6" id="67">
+			<name>Mutants and Masterminds 2nd Edition (Suicide Squad)</name>
+			<gamemaster gmID="131">Sean</gamemaster>
+			<title><![CDATA[Where Have All The Good Men Gone?]]></title>
+			<description><![CDATA[Waller really has lost it. She has set her sites on the truly unattainable this time. She´s still sending the squad, but it seems like a doomed mission.  But maybe not. It seems simple enough. Covertly drop into a remote tropical island and steal a key from the queen of the island without getting caught.]]></description>
+		</game>
+		<game slot="6" id="68">
+			<name>Gods of the Fall (Cypher System)</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[The Rites of Spring]]></title>
+			<description><![CDATA[You and your companions are fledgling Gods who have recently discovered their own divinity in a land that mistrusts and fears those who would call themselves Deities.<br />You have heard rumours of a dilapidated mansion near the West Gate that has withstood a series of attacks from Strange Creatures. To those who remember the old ways, a ray of light may lie within, but without heroes to stop them, the dark will snuff it out.]]></description>
+		</game>
+		<game slot="6" id="69">
+			<name>Imperial Assault</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Miniature Wargame]]></title>
+			<description><![CDATA[Imperial Assault is a strategy board game of tactical combat and missions for two to five players, offering two distinct games of battle and adventure in the Star Wars™ universe!]]></description>
+		</game>
+		<game slot="6" id="70">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[Sailor Moon]]></title>
+			<description><![CDATA[School, romance and a huge rock concert with an all woman band, Totally Outrageous. What could go wrong?]]></description>
+		</game>
+		<game slot="6" id="71">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="134">Geoff L.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="6" id="72">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="136">Russell M</gamemaster>
+			<title><![CDATA[Adventurers League]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<boardgame>5 Tribes</boardgame>
+		<boardgame>Are You The Trator</boardgame>
+		<boardgame>Asteroyds</boardgame>
+		<boardgame>Black Friday </boardgame>
+		<boardgame>Boxcars</boardgame>
+		<boardgame>Cargo Noir</boardgame>
+		<boardgame>Caveman</boardgame>
+		<boardgame>Cinque Terre</boardgame>
+		<boardgame>Dominion</boardgame>
+		<boardgame>Dungeoneer</boardgame>
+		<boardgame>Dust</boardgame>
+		<boardgame>Flux</boardgame>
+		<boardgame>Furstenfeld</boardgame>
+		<boardgame>Gang of Four</boardgame>
+		<boardgame>Loch Ness</boardgame>
+		<boardgame>Memoir 44</boardgame>
+		<boardgame>Mousquetaires du Roy</boardgame>
+		<boardgame>Once Upon a Time</boardgame>
+		<boardgame>Pantheon</boardgame>
+		<boardgame>Piñata </boardgame>
+		<boardgame>Pirates Cove</boardgame>
+		<boardgame>Pressure cooker</boardgame>
+		<boardgame>Puerto Rico</boardgame>
+		<boardgame>RanKing</boardgame>
+		<boardgame>Relic Runners</boardgame>
+		<boardgame>Shadows over camelot</boardgame>
+		<boardgame>The Heavens of Olympus</boardgame>
+		<boardgame>Those Pesky Garden Gnomes</boardgame>
+		<boardgame>War Hammer Invasion</boardgame>
+	</games>
+	<gamemasters>
+		<gm>
+			<name id="1">Adam G.</name>
+			<description><![CDATA[Adam started roleplaying when he was 8, and has played or GM´d in many systems, including Pathfinder, D20 Modern, Top Secret, Marvel and every version of D&D. He loves character and story driven games, and enjoys creatively interpreting rules whenever pla]]></description>
+		</gm>
+		<gm>
+			<name id="3">Andrew W.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="4">Andrew Y.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="5">Brian F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="7">Bryan M.</name>
+			<description><![CDATA[For more than five years Bryan has been taking childhood memories and warping them into twisted games, that are just too much fun to pass up.]]></description>
+		</gm>
+		<gm>
+			<name id="8">Chris C.</name>
+			<description><![CDATA[Chris won the story teller of the year award in 2002 and next year will be publishing his first RPG game “Knights of the Hidden Sun”. Whenever you get the chance play with this man his games are too fun to pass up.]]></description>
+		</gm>
+		<gm>
+			<name id="9">Chris M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="10">Chris T.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="12">Cody M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="13">Corey R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="14">Craig M.</name>
+			<description><![CDATA[Craig is a old school story teller, who has been running games for us every year since the first year of the convention. His game are quite fun, well worth checking out.]]></description>
+		</gm>
+		<gm>
+			<name id="15">Darcy B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="16">Dave M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="18">David E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="19">David L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="20">David W.</name>
+			<description><![CDATA[Gaming started for me in grade two (2) when I played a mage that was magically teleported to the front of a roman legion. So I fireballed them. My GM (also in grade 2) wasn´t to good with area calculations or math in general. So I vanquished the whole le]]></description>
+		</gm>
+		<gm>
+			<name id="21">Duncan J</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="23">Ed Greenwood</name>
+			<description><![CDATA[Ed Greenwood is the creator of the Forgotten Realms fantasy world, which became the setting for his home D&D game in 1975. Play still continues in this long-running campaign, and Ed also keeps busy producing Realmslore for various TSR publications. Ed]]></description>
+		</gm>
+		<gm>
+			<name id="24">Erik W.</name>
+			<description><![CDATA[Erik W, wrote as his blurb "Erik likes reading, playing, discussing, and playtesting new games.  He has participated in playtests for Esoterrorists, Trail of Cthulhu, and Heroquest.  He looks forward to returning to Peterborough." Personally I think Eric]]></description>
+		</gm>
+		<gm>
+			<name id="25">Erica M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="26">Francis B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="27">George B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="28">Graham R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="29">Greg S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="30">Greig A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="31">Ian M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="33">James</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="34">James A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="35">James Kerr</name>
+			<description><![CDATA[In 1987 James Kerr placed a peanut butter sandwich in his parent´s VCR and was transported to a magical world where he was taught by long-dead druids the secrets of dice rolling, community, and dungeon mastership. Returning to this world he has been playi]]></description>
+		</gm>
+		<gm>
+			<name id="39">Jason B.</name>
+			<description><![CDATA[is a deviant mind of the highest caliber who has been running LARP for Phantasm for 7 years.]]></description>
+		</gm>
+		<gm>
+			<name id="40">Jason M.</name>
+			<description><![CDATA[is a two-time winner of the Hammer of Plot and overall awesome human being.  He is a GM that is all about keeping his players entertained.  His material is light on planning and heavy on over-the-top action.  If you attend Phantasm, you owe it to yourself]]></description>
+		</gm>
+		<gm>
+			<name id="41">Jayson P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="42">Jean Marc S.</name>
+			<description><![CDATA[Jean-Marc has been coming out to the con for a while now and always is a con favourite. He runs a number of games of his own creation like \"Fallout\".]]></description>
+		</gm>
+		<gm>
+			<name id="43">Jeff C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="45">Jon-Mark J</name>
+			<description><![CDATA[If we could find a way to harness this man’s energy we would solve the energy crisis hands down. Jon Mark runs a high energy game full of drama where hero exemplify what it is to be a hero.]]></description>
+		</gm>
+		<gm>
+			<name id="46">Jon Moore</name>
+			<description><![CDATA[Jon has been playing and running games since he was 12 and purchased the D&D Red Box in a whim, over 20 years ago.  Moving quickly from D&D to Rifts, he owns a metric ton of all manner of Palladium Source material. Now well-dedicated to the GURPS system,]]></description>
+		</gm>
+		<gm>
+			<name id="47">Jordan G.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="48">Joshua K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="49">Justin L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="52">Lawrence M.</name>
+			<description><![CDATA[Lawrence we got from Orion, and we’re quite glad to have him. He runs D20 Cthulu for us, and puts a ton of effort into it.]]></description>
+		</gm>
+		<gm>
+			<name id="53">Lawrence W.</name>
+			<description><![CDATA[Lawrence Whitaker has been role-playing since the ice sheets started to recede and claims he has a genuine knuckle-bone d20 - although this might not be true. What is true is that Lawrence has over 25 years of experience as a player, GM and games writer.]]></description>
+		</gm>
+		<gm>
+			<name id="56">Malcolm S.</name>
+			<description><![CDATA[Malcolm Sheppard has been writing and designing roleplaying games for about a decade, beginning with material for White Wolf´s classic Mage: The Ascension line. Since then he´s gone to work on the current World of Darkness (Mage, Changeling and Geist),]]></description>
+		</gm>
+		<gm>
+			<name id="59">Mike C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="60">Mike K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="61">Mike M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="63">Nick S.</name>
+			<description><![CDATA[Nick puts a ton of effort and play testing into his games, its great to see a table get drawn into one of his woven tales.]]></description>
+		</gm>
+		<gm>
+			<name id="64">Paige W.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="65">Paul G.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="66">Peter L.</name>
+			<description><![CDATA[Peter L is a old school GM with a new school feel. He runs great games that focus on fun and letting the PC´s be hero´s who can do cool things.]]></description>
+		</gm>
+		<gm>
+			<name id="68">Rebecca Z.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="70">Robert H</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="71">Roland K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="73">Steve C.</name>
+			<description><![CDATA[Steve runs these great games that focus around the players and build on their actions. If you get a chance you have to try some of the games of Steve\’s own design, they are pretty fun.]]></description>
+		</gm>
+		<gm>
+			<name id="74">Steve E.</name>
+			<description><![CDATA[Steve has the largest RPG collection I’ve ever seen. He loves to dive into new games and settings. When he runs a game he focuses entirely on the story and player’s enjoyment, the rules come second.]]></description>
+		</gm>
+		<gm>
+			<name id="75">John P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="76">Michel L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="78">Frank O</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="79">Jay L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="81">David R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="82">Mattie A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="83">Derek H.</name>
+			<description><![CDATA[Derek has always been gaming in some sort of capacity. He picked up D&D in 1980 and started to DM in 1983 and has not stopped playing since. He´s played Traveller, GURPS and all kinds of wierd wonderful RPGs. While still playing D&D/Pathfinder to this day]]></description>
+		</gm>
+		<gm>
+			<name id="84">Jared K</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="85">Eddy K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="57">Matt Clark</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="86">Greg L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="87">Kat J.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="88">Mark R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="89">Pathfinder Society</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="90">Jacob H.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="91">Trevor L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="92">Peterborough X-Wing Squadron</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="93">James L.</name>
+			<description><![CDATA[Been away for a couple of years.  I am happy to be running a few events again for Phantasm. I am looking to try and get Palladium Books some recognition again as here in Peterborough it really is not known well at all.]]></description>
+		</gm>
+		<gm>
+			<name id="94">Bryan C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="95">Tom T.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="97">Jaymz L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="98">Shawn L.</name>
+			<description><![CDATA[I am currently a Press Ganger for Privateer Press, which is to say that I am a volunteer gameplay coordinator for Privateer Press Products. I´ve been doing this officially for just under a year, but have been demoing Privateer Press Products for three. I have been plying RPGs since I was 12 with an old copy of 1st edition Advanced Dungeons and Dragons, and have played multiple RPGs over the past 23 years both as a PC and as a Game Master. I expanded into Miniature war gaming with Warhammer 40,00 with an Eldar and a Space Wolves Army. I decided that after surviving the supposed end of the world of 2012, I felt that a great reward for my survivability would be learning to play a new game. I started playing Hordes and then moved to Include Warmachine. Recently I have started to add the iron Kingdoms RPG to my repertoire of games supported and have had a fantastic time hosting and playing this RPG.]]></description>
+		</gm>
+		<gm>
+			<name id="99">Matthew K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="100">TBA</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="101">Scott B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="102">Stu M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="103">Jeff K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="104">Sean M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="105">Andrew V.</name>
+			<description><![CDATA[Gamer since the early 80’s and designer since the early 90’s. Best known works are the Fate of the Norns line of games: Ragnarok, Gulveig and Vigridr.]]></description>
+		</gm>
+		<gm>
+			<name id="106">Dan K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="107">Alec M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="108">Jessika E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="109">Dennis H.</name>
+			<description><![CDATA[I have an extensive background running a wide range of game systems. Starting with AD&D in the early 80´s and branching off in to other systems such as Warhammer Fantasy Roleplay, Gurps, Rolemaster, Rifts, Recon, Palladium, Shadowrun, Star Wars d6(west end) and many others. I have DM every version of D&D and I am currently the Local coordinator for D&D 5e for the Belleville area. I have run games at a variety of cons over the years Knight March, Orion, and of course Phantasm." I prefer to run games then play in them smile emoticon]]></description>
+		</gm>
+		<gm>
+			<name id="110">Eugene F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="111">Jeff P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="112">Lance S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="113">Paul K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="114">Anthony U.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="115">Rolando M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="116">Dale D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="117">Ian P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="118">Irene M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="119">Alex M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="120">Derek M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="121">Xavier D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="122">Adventurers League</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="123">Adam M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="124">Rob S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="125">Rob H.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="127">Allison S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="128">Jessica F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="129">Joe N.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="130">Justin M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="131">Sean</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="132">Terry B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="133">Terry P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="134">Geoff L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="135">Robert S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="136">Russell M</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+	</gamemasters>
+</schedule>
