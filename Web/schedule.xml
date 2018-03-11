@@ -9,10 +9,9 @@
 	<day id="2">
 		<date>March 25th, 2017</date>
 		<weekday>Saturday</weekday>
-    <slot id="2">Morning 10:00 am to 2:00 pm</slot>
 		<slot id="4">Evening 8:00 pm to 12:00 pm</slot>
 		<slot id="3">Afternoon 3:00 pm to 7:00 pm</slot>
-		
+		<slot id="2">Morning 10:00 am to 2:00 pm</slot>
 		<note dayid="2">
 			<desc>
 				<![CDATA[
@@ -67,238 +66,370 @@
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
 		<game slot="2" id="6">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="2" id="7">
 			<name>Mutants and Masterminds</name>
 			<gamemaster gmID="104">Sean M.</gamemaster>
 			<title><![CDATA[Suicide Squad]]></title>
 			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok. <br />Title: ...the one where Waller took a Vacation <br /><br />How’s the team to adjust when Flag summons the team and tells them he’s the one holding their lives on this one. Seems like a simple job though, albeit odd. How often do criminals break INTO a prison?]]></description>
 		</game>
-		<game slot="2" id="7">
+		<game slot="2" id="8">
 			<name>Fate System</name>
-			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<gamemaster gmID="131">Jon-Mark J.</gamemaster>
 			<title><![CDATA[Game of Thrones]]></title>
 			<description><![CDATA[The Dragon´s Bride: [A Game of Thrones Game Using the Fate System]<br /><br />A crazy plan for a secret wedding. After the Crown Prince Rhaegar<br />Targaryen was denied his bride by the Warden of the North Rickard<br />Stark a new plan has been hatched. Lyanna Stark is not a woman to sit<br />by as her future is decided for her. She has planned her own escape.<br />With the help of a few trusted friends sworn to secrecy and her<br />brother Benjen she puts her plan into action. Unbeknownst to her, her<br />fiancé Lord Robert Baratheon seeks to expedite their wedding as well,<br />when two plans clash the fate of all Westeros will change.]]></description>
 		</game>
-		<game slot="2" id="8">
+		<game slot="2" id="9">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="49">Justin L.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The city of Chubago has called for aid. There is a sickness spreading throughout the region and the healers are stumped. Your group has been contacted to cross the mountain pass and investigate the matter. The Duke has offered substantial reward of titles and land for you to discover what is causing this. Will you figure it out or fall victim to the disease?]]></description>
 		</game>
-		<game slot="3" id="9">
-			<name>Pathfinder</name>
-			<gamemaster gmID="89">Pathfinder Society</gamemaster>
-			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
-		</game>
-		<game slot="3" id="10">
-			<name>Pathfinder</name>
-			<gamemaster gmID="89">Pathfinder Society</gamemaster>
-			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
-		</game>
-		<game slot="3" id="11">
+		<game slot="2" id="10">
 			<name>D&amp;D 5E</name>
-			<gamemaster gmID="122">Adventurers League</gamemaster>
-			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+			<gamemaster gmID="14">Craig M.</gamemaster>
+			<title><![CDATA[Grimm Coachman]]></title>
+			<description><![CDATA[With a crash and blast of cold air, horses with flaming green eyes break out of Grimm Hold, pulling a coach behind them. Their hooves strike sparks and their neigh freezes the blood of those nearby. The coachman, a dark blot drives them on through the town. The call goes out for the barbarian brothers Grimm to come deal with this.]]></description>
 		</game>
-		<game slot="3" id="12">
-			<name>D&amp;D 5E</name>
-			<gamemaster gmID="122">Adventurers League</gamemaster>
+		<game slot="2" id="11">
+			<name>Dungeons &amp; Dragons (BECMI)</name>
+			<gamemaster gmID="35">James K.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+			<description><![CDATA[Come back to the D&D Basic of yore, the original fantasy setting - when elf was a class, spells were few but mighty, and a common house-cat could kill your entire party. Level appropriate encounters? Pshaw! Peril! Few Hit Points! Save or DIE! This is the granddaddy of gritty. No XP necessary; bring only your dice, your ingenuity, and your sense of adventure.]]></description>
+		</game>
+		<game slot="2" id="12">
+			<name>Crivens there be Picties</name>
+			<gamemaster gmID="132">Kerri F.</gamemaster>
+			<title><![CDATA[Feegles in Ankh Morpork]]></title>
+			<description><![CDATA[A small band of Nac Mac Feegles is being sent on a mission by their Kelda to the great city of Ankh Morpork.  Will they be able to complete it?  Or will they get stuck in pubs, as they are easy to get into but so hard to get out of, ya ken?  Perhaps get sidetracked by fighting all the scunners that might cross their path?  Will it just be mayhem in Ankh Morpork?  Play and find out! <br /><br />Great game for fans of the Discworld as it will take place with characters you know and love (or love to be annoyed by) from Ankh Morpork. However, this will be fun for anyone who wants to play a 6 inch barbarian.]]></description>
 		</game>
 		<game slot="3" id="13">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="3" id="14">
+			<name>Pathfinder</name>
+			<gamemaster gmID="89">Pathfinder Society</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
+		</game>
+		<game slot="3" id="15">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="3" id="14">
+		<game slot="3" id="16">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="3" id="17">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="3" id="18">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="3" id="19">
 			<name>Mutants and Masterminds</name>
 			<gamemaster gmID="104">Sean M.</gamemaster>
 			<title><![CDATA[Suicide Squad]]></title>
 			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok. <br />Title: ...the one we were likely to fail <br />It’s never a good sign when Wallers pissed. It’s less so when she admits this is going to be a challenge. Strap on your tights and grab your weapons, time to hit a police evidence storage facility.]]></description>
 		</game>
-		<game slot="3" id="15">
+		<game slot="3" id="20">
 			<name>Mouseguard</name>
-			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<gamemaster gmID="131">Jon-Mark J.</gamemaster>
 			<title><![CDATA[Into the Plains]]></title>
 			<description><![CDATA[Back by request, the Guard returns to Phantasm. A mouse vital to the<br />guard weighed down with secrets has been taken by patrol beyond the<br />scent border. Gwendolyn dispatches six of her most trusted guard<br />member into the plains beyond the border, with nothing but and old map<br />and thier skill they must recover the oldfur before he can be made to<br />talk. To protect the territories these six head to almost certain<br />death.]]></description>
 		</game>
-		<game slot="3" id="16">
+		<game slot="3" id="21">
 			<name>Shadowrun</name>
 			<gamemaster gmID="40">Jason M.</gamemaster>
-			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[&nbsp;]]></description>
+			<title><![CDATA[Friendship is Optional]]></title>
+			<description><![CDATA[A Shadowrunning team of centaurs is contracted to find out what has been happening to their clan´s numbers.  A dysfunctional group and strange goings on ensures that nothing is going to be straight forward.  A Shadowrun/My Little Pony crossover.]]></description>
 		</game>
-		<game slot="3" id="17">
+		<game slot="3" id="22">
 			<name>Vampire the Masquarade</name>
 			<gamemaster gmID="49">Justin L.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The year is 1975, The Sabbat have controlled the metropolis of  New York for the past 50 years. Recently Archbishop Julianna has been killed and the coveted seat is up for grabs. Your pack has a chance to seize power but the Cardinal of the area has set a mission. Recover the missing page of the Book of Nod rumored to be in the city or gain the support of the packs. Which will you choose?]]></description>
 		</game>
-		<game slot="4" id="18">
+		<game slot="3" id="23">
+			<name>He-Man and Masters of the Universe RPG</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[This is a story game (eewww!) without dice (yuck!) - actually there are dice sometimes - faithfully creating an episode of "He-Man and the Masters of the Universe" from opening punch to closing Public Service Announcement. There are many systems for excellently representing barbarians with blasters, so this does not try to be one of them. Instead, it is 19-eighty-something, and you are a six to ten-year-old child, playing with your friends until the final battle is won for good, and Skeletor cries: "I´ll get you He-Man, if it´s the last thing I do!"]]></description>
+		</game>
+		<game slot="3" id="24">
+			<name>Star Wars: Legion</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Minature War Game]]></title>
+			<description><![CDATA[Star Wars: Legion invites you to enter the ground battles of the Galactic Civil War as the commander of a unique army of miniatures filled with troopers, powerful ground or repulsor vehicles, and iconic characters like Darth Vader or Luke Skywalker. While innovative mechanics for command and control simulate the fog of war and the chaos of battle, the game’s unpainted, easily assembled minis give you a canvas to create the Star Wars army you’ve always wanted to lead into battle — whether you fight for the monolithic, oppressive Galactic Empire or the ragtag Rebel Alliance.]]></description>
+		</game>
+		<game slot="3" id="25">
+			<name>Starfinder</name>
+			<gamemaster gmID="134">Matthew D.</gamemaster>
+			<title><![CDATA[Stars of Arcadia]]></title>
+			<description><![CDATA[A ancient threat from the past now has returned to pursure its vengance upon those who banished them. The Hive like race known only as "The Vimes" have left the Wyrmscar Nebula to torment and bring pain upon those who have wronged them. Upon those who are still allowed to call Arcadia their home.<br /><br /><br />Broadcasting on all local drift beacons, a call goes out to all Starfinders in range...<br /><br /><br />"Greetings Starfinders, This is the Arcadian Star Command.  We are calling out to all races and planets to bring word of an incoming disaster. The Hive Fleet of the Vimes have begun their move, Their fleet is massing in the Wyrmscar Nebula. We are forming a frontier to defend against this threat... and we need your help."]]></description>
+		</game>
+		<game slot="4" id="26">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="4" id="19">
+		<game slot="4" id="27">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="4" id="20">
+		<game slot="4" id="28">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="4" id="21">
+		<game slot="4" id="29">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="4" id="22">
+		<game slot="4" id="30">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="4" id="23">
+		<game slot="4" id="31">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="4" id="32">
 			<name>Shadowrun</name>
 			<gamemaster gmID="104">Sean M.</gamemaster>
 			<title><![CDATA[Suicide Squad]]></title>
 			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok. <br />Title: Somewhere I belong <br />A classic comic in a whole new world! Your favorite squaddies reimagined into a new universe. Join them as they come to terms with being forced to work for the MAN... well a woman but you know what I mean. Let chaos and destruction abound!]]></description>
 		</game>
-		<game slot="4" id="24">
+		<game slot="4" id="33">
 			<name>Mouseguard</name>
-			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<gamemaster gmID="131">Jon-Mark J.</gamemaster>
 			<title><![CDATA[Gwendolyn´s Last Stand]]></title>
 			<description><![CDATA[Gwendolyn has led the Guard through war and into an uneasy peace.<br />Weaseal and Pirates, raiders bend on revenge and even a rebellion.<br />Through it all she has lead the guard. Now she has been taken by a<br />faction of their own who believe the guard need to change. A small<br />group of Traitors aligned with mice who seek to undermine the good the<br />guard does. With most of the guard out on patrols, it falls to the six<br />to find Gwendolyn and bring her home. The fate of the gaurd´s beloved<br />leader is in your paws.]]></description>
 		</game>
-		<game slot="4" id="25">
+		<game slot="4" id="34">
 			<name>Marvel Super Heroes</name>
 			<gamemaster gmID="1">Adam G.</gamemaster>
 			<title><![CDATA[Cogs in the Machine]]></title>
 			<description><![CDATA[A nefarious new villain has arrived on the scene, and their minions and clever contraptions are creating mayhem throughout Texas. Will your heroic efforts be enough to foil the villain’s odious schemes and bring peace back to the Lone Star state? Play as part of an experienced team of southern superheroes; choose to be a bus driver miraculously back from the dead, an angel who has chosen to be an earthly guardian, an engineer piloting a super-powered suit, a mechanic with hyper-speed, a physicist with power over light, or a talking sentient fox. No experience required!]]></description>
 		</game>
-		<game slot="4" id="26">
+		<game slot="4" id="35">
 			<name>Ork!</name>
-			<gamemaster gmID="56">Malcolm S.</gamemaster>
+			<gamemaster gmID="133">Malcom S.</gamemaster>
 			<title><![CDATA[You am Ork? You am ORK!!!!]]></title>
 			<description><![CDATA[You are gunks: Good for nothing junior orks who don´t even have names and live in a pit. But the warlock who runs your village has a job for you--one where you´ll win names if you´re old, bloodthirsty, and can stand disgusting dangers like smelly pies and flowers, and adorable ducks! Ugh! ARRRRRGH. Uses Green Ronin´s Ork!: The Roleplaying Game Second Edition, as run by its developer, Malcolm Sheppard.]]></description>
 		</game>
-		<game slot="5" id="27">
+		<game slot="4" id="36">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="14">Craig M.</gamemaster>
+			<title><![CDATA[Grimm Coachman]]></title>
+			<description><![CDATA[With a crash and blast of cold air, horses with flaming green eyes break out of Grimm Hold, pulling a coach behind them. Their hooves strike sparks and their neigh freezes the blood of those nearby. The coachman, a dark blot drives them on through the town. The call goes out for the barbarian brothers Grimm to come deal with this.]]></description>
+		</game>
+		<game slot="4" id="37">
+			<name>AFMBE</name>
+			<gamemaster gmID="108">Jessika E.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="4" id="38">
+			<name>Bluebeard's Bride</name>
+			<gamemaster gmID="128">Jessica F.</gamemaster>
+			<title><![CDATA[(18+)]]></title>
+			<description><![CDATA[Bluebeard’s Bride is an investigatory horror tabletop roleplaying game that makes use of the same rules-light engine as Apocalypse World, Monsterhearts, and Urban Shadows to create stories of feminine horror in the vein of Crimson Peak, American Horror Story, and The Company of Wolves.<br /><br />Explore Bluebeard´s mansion and create your own beautifully tragic version of the dark fairy tale with Bluebeard´s Bride. Experience the nightmarish memories that haunt the rooms of this broken place and discover the truth of what happened here. But it is up to you and your friends to decide whether or not you are a faithful or disloyal bride.]]></description>
+		</game>
+		<game slot="5" id="39">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="5" id="28">
+		<game slot="5" id="40">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="5" id="29">
+		<game slot="5" id="41">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="5" id="30">
+		<game slot="5" id="42">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="5" id="31">
+		<game slot="5" id="43">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="5" id="32">
+		<game slot="5" id="44">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="122">Adventurers League</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
+		</game>
+		<game slot="5" id="45">
 			<name>Vampire the Masquerade</name>
 			<gamemaster gmID="104">Sean M.</gamemaster>
 			<title><![CDATA[Totally a Suicide Run]]></title>
 			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok. <br />Title: Totally a Suicide Run. <br />It’s New York City. It’s December 31, 2017. You’ve gotten tickets to celebrate at an exclusive club, one that opens only once a year. The night is going fine till a strange man takes the stage and announces we have all been selected to serve in a war that has gone on since the dark ages of man. He represents someone called Sabbat and we are going to help. Then the lights went out and the screaming started.]]></description>
 		</game>
-		<game slot="5" id="33">
-			<name>Fate Core</name>
-			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+		<game slot="5" id="46">
+			<name>Monster of the Week</name>
+			<gamemaster gmID="131">Jon-Mark J.</gamemaster>
 			<title><![CDATA[A very cold New Years]]></title>
 			<description><![CDATA[The promise of a New Years party with your closest College friends<br />seems like a no brainer. The bad weather isn´t going to get in the<br />way. When something larger than the biggest bear you ever seen rams<br />you van off the road into the lake it you are going to have to get<br />warm and survive if you are going to get to see the New Year in. Luck<br />for you, you aren´t just like everyone else. Unfortunately, your<br />normal friends just don´t know. So here´s the choice survive and freak<br />them out, or keep it quiet and hope for the best.]]></description>
 		</game>
-		<game slot="5" id="34">
-			<name>7th Seas</name>
+		<game slot="5" id="47">
+			<name>Shadowrun</name>
 			<gamemaster gmID="40">Jason M.</gamemaster>
-			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[&nbsp;]]></description>
+			<title><![CDATA[Hostile Nature]]></title>
+			<description><![CDATA[The Awakened Liberation Front has learned of a remote Evo facility where they train security animals.  Mr. Johnson wants to know what they´re training inside, so they know the best way to liberate the animals.  With the company´s record for creating new species, who knows just what lies beyond those walls?]]></description>
 		</game>
-		<game slot="5" id="35">
+		<game slot="5" id="48">
 			<name>Fate Core</name>
 			<gamemaster gmID="49">Justin L.</gamemaster>
 			<title><![CDATA[The Heavens have Fallen!]]></title>
 			<description><![CDATA[The God´s of old are dead and only these new emerging God´s are left. They walk the Earth discovering their newly awakened divinity and their ultimate purpose.<br /><br /> A newly formed empire has devoted itself to eliminating these "New Gods" and having humanity control it´s own destiny for once.<br /><br />Finding themselves the hunted and shunned, some have banded together in groups sarcastically called "Pantheon´s". Though dispite public opinion, they have some sort of driven purpose. Known only to them, they roam the landscape looking for the void knows what.]]></description>
 		</game>
-		<game slot="6" id="36">
+		<game slot="5" id="49">
+			<name>Dungeons &amp; Dragons (BECMI)</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Come back to the D&D Basic of yore, the original fantasy setting - when elf was a class, spells were few but mighty, and a common house-cat could kill your entire party. Level appropriate encounters? Pshaw! Peril! Few Hit Points! Save or DIE! This is the granddaddy of gritty. No XP necessary; bring only your dice, your ingenuity, and your sense of adventure.]]></description>
+		</game>
+		<game slot="5" id="50">
+			<name>Bedlam Hall</name>
+			<gamemaster gmID="128">Jessica F.</gamemaster>
+			<title><![CDATA[A Simply Dreadful Birthday Party]]></title>
+			<description><![CDATA[Taking place just after the Great War in England, you are one of the household staff of Bedlam Hall, the Blackwood Family Estate. The Blackwood family is a little strange, but that doesn´t matter to you because you have to keep the house in order, no matter what. On top of your usual soul crushing chores, you have been informed that today you will be helping throw a birthday party for the Blackwood´s youngest daughter, Mathilda.<br /><br />Bedlam Hall uses the Powered By Apocalypse engine, inspired by such shows as Downtown Abbey, Dark Shadows, Addams Family and Gosford Park.]]></description>
+		</game>
+		<game slot="5" id="51">
+			<name>D&amp;D 5E</name>
+			<gamemaster gmID="130">Joe N.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Winter is over and spring is in the air, but the melting ice has freed something ghastly – undead warriors, rising inexplicably to prey upon the living. You, brave heroes, must defend the village from these walking terrors and, more importantly, discover the source of their unnatural revival before the village is overrun.<br /><br />This is an original Dungeons & Dragons 5th Edition adventure for 2 to 4 players. No prior experience with role-playing games is assumed; newcomers are welcome and will learn by playing. Pre-generated character sheets and miniatures will be provided.]]></description>
+		</game>
+		<game slot="5" id="52">
+			<name>Star Wars: Legion</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Minature War Game]]></title>
+			<description><![CDATA[Star Wars: Legion invites you to enter the ground battles of the Galactic Civil War as the commander of a unique army of miniatures filled with troopers, powerful ground or repulsor vehicles, and iconic characters like Darth Vader or Luke Skywalker. While innovative mechanics for command and control simulate the fog of war and the chaos of battle, the game’s unpainted, easily assembled minis give you a canvas to create the Star Wars army you’ve always wanted to lead into battle — whether you fight for the monolithic, oppressive Galactic Empire or the ragtag Rebel Alliance.]]></description>
+		</game>
+		<game slot="6" id="53">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="6" id="37">
+		<game slot="6" id="54">
 			<name>Pathfinder</name>
 			<gamemaster gmID="89">Pathfinder Society</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Pathfinder Society is the Worldwide Organized Play campaign for the Pathfinder RPG.  Characters are members of the Pathfinder Society, an organization dedicated to the recovery and study of lost artifacts, knowledge, and magic.   Experienced and Novice pl]]></description>
 		</game>
-		<game slot="6" id="38">
+		<game slot="6" id="55">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="6" id="39">
+		<game slot="6" id="56">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="6" id="40">
+		<game slot="6" id="57">
 			<name>D&amp;D 5E</name>
 			<gamemaster gmID="122">Adventurers League</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The D&D Adventurers League is an ongoing official organized play campaign for Dungeons & Dragons. It uses the fifth edition of the Dungeons & Dragons rules, and features the Forgotten Realms setting. You can play D&D Adventurers League games at any place that features adventures bearing the D&D Adventurers League logo. You can create a character and bring that character to games anywhere D&D Adventurers League is supported.]]></description>
 		</game>
-		<game slot="6" id="41">
+		<game slot="6" id="58">
 			<name>Fate Core</name>
 			<gamemaster gmID="104">Sean M.</gamemaster>
 			<title><![CDATA[Game Of Thrones]]></title>
 			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok. <br />Title: A Curious Assault on Kings Landing <br />It’s during Robert’s rebellion. You have been summoned to a small outcropping of woods some hours ride from Kings Landing. Kings Landing is besieged by Lannisters, and king Doran of Dorne has summoned you to serve him. His request is simple. He wants his sister rescued from the city and returned for him. He has collected a special team. You have every chance of success.]]></description>
 		</game>
-		<game slot="6" id="42">
+		<game slot="6" id="59">
 			<name>Fate Core</name>
-			<gamemaster gmID="45">Jon-Mark J</gamemaster>
+			<gamemaster gmID="131">Jon-Mark J.</gamemaster>
 			<title><![CDATA[Salior Mcbeal]]></title>
 			<description><![CDATA[As promised this is A Bryan Mckellar Sailor Moon Adventure, Presented<br />by Jon-Mark Wolfriam- Jenkins with the Fate Core system. The Sailor<br />scouts are now in their thirties trying to balance a career, love<br />life, and fighting evil. Oh yeah, Tuxedo Mask is totally trying to get<br />full custody of the kid. Moon Tiara Magic might not be enough to solve<br />all of these problems, but you can be damn sure the scouts are gonna<br />give it their best shot.]]></description>
 		</game>
-		<game slot="6" id="43">
+		<game slot="6" id="60">
 			<name>Teenagers From Outer Space</name>
 			<gamemaster gmID="1">Adam G.</gamemaster>
 			<title><![CDATA[Graduation Night]]></title>
 			<description><![CDATA[Graduation Night at Intergalactic High… and a group of totally cool aliens from across the galaxy ready to celebrate... what could possibly go wrong?!? Play a super-powered teenager that you design in minutes thanks to a simplified character creation system, and immerse yourself in the fun and frivolity of this lighthearted approach to the trials and tribulations of being a teenager… from outer space… with super powers! This is an extremely rules light game - absolutely no experience required!]]></description>
 		</game>
-		<game slot="6" id="44">
-			<name>Shadowrun</name>
+		<game slot="6" id="61">
+			<name>7th Seas</name>
 			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[In the Affairs of Gods]]></title>
+			<description><![CDATA[The Heroes leave the temperate climate of the Sarmatian Commonwealth for the cooler climate of Ussura.  In this land of backwards beliefs and divided loyalties, they are hired for a rescue mission.  However, in a nation where Gods walk among the people and the earth itself has a mind of its own, nothing is as it seems.]]></description>
+		</game>
+		<game slot="6" id="62">
+			<name>He-Man and Masters of the Universe RPG</name>
+			<gamemaster gmID="35">James K.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
-			<description><![CDATA[&nbsp;]]></description>
+			<description><![CDATA[This is a story game (eewww!) without dice (yuck!) - actually there are dice sometimes - faithfully creating an episode of "He-Man and the Masters of the Universe" from opening punch to closing Public Service Announcement. There are many systems for excellently representing barbarians with blasters, so this does not try to be one of them. Instead, it is 19-eighty-something, and you are a six to ten-year-old child, playing with your friends until the final battle is won for good, and Skeletor cries: "I´ll get you He-Man, if it´s the last thing I do!"]]></description>
+		</game>
+		<game slot="6" id="63">
+			<name>Star Wars: Legion</name>
+			<gamemaster gmID="29">Greg S.</gamemaster>
+			<title><![CDATA[Minature War Game]]></title>
+			<description><![CDATA[Star Wars: Legion invites you to enter the ground battles of the Galactic Civil War as the commander of a unique army of miniatures filled with troopers, powerful ground or repulsor vehicles, and iconic characters like Darth Vader or Luke Skywalker. While innovative mechanics for command and control simulate the fog of war and the chaos of battle, the game’s unpainted, easily assembled minis give you a canvas to create the Star Wars army you’ve always wanted to lead into battle — whether you fight for the monolithic, oppressive Galactic Empire or the ragtag Rebel Alliance.]]></description>
+		</game>
+		<game slot="6" id="64">
+			<name>Starfinder</name>
+			<gamemaster gmID="134">Matthew D.</gamemaster>
+			<title><![CDATA[Stars of Arcadia]]></title>
+			<description><![CDATA[A ancient threat from the past now has returned to pursure its vengance upon those who banished them. The Hive like race known only as "The Vimes" have left the Wyrmscar Nebula to torment and bring pain upon those who have wronged them. Upon those who are still allowed to call Arcadia their home.<br /><br /><br />Broadcasting on all local drift beacons, a call goes out to all Starfinders in range...<br /><br /><br />"Greetings Starfinders, This is the Arcadian Star Command.  We are calling out to all races and planets to bring word of an incoming disaster. The Hive Fleet of the Vimes have begun their move, Their fleet is massing in the Wyrmscar Nebula. We are forming a frontier to defend against this threat... and we need your help."]]></description>
+		</game>
+		<game slot="6" id="65">
+			<name>Crivens there be Picties</name>
+			<gamemaster gmID="132">Kerri F.</gamemaster>
+			<title><![CDATA[The Feegles Get Lost]]></title>
+			<description><![CDATA[A small band of Nac Mac Feegles decide to visit Unseen Univerity to see the Library.  Feegles have a great distrust of words.  This small group has decided to take on the most powerful and long words!  No way this could go wrong, right?  Go big or go home or was that go big and go home?  Oh was that foreshadowing? Crivens, it deed sound like that foreshadowing blethers.<br /><br />Good game for anyone who loves scifi/fantasy books.  And of course, anyone who wishes to be a small blue man who wants to fight, well, everything.]]></description>
+		</game>
+		<game slot="6" id="66">
+			<name>AFMBE</name>
+			<gamemaster gmID="129">Jessica E.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Game not for the young or the faint of heart:<br /><br />The world is going to hell, so what else is new? Global warfare is about to break out, new super viruses on the rampage, and mass migrations leading to hordes of people flowing into countries to the point of rioting. Thank god you live in Canada, right? Well, maybe not. The government has opened the gates to anyone seeking asylum and the newest H1N3 virus is wreaking havoc among the young and elderly. What will you do when people start riots to get to the last bottle of cough syrup? How about when the vaccines are destroyed? With hospitals overrun and the threat of riots around every corner how will you survive when the world turns to chaos? At least the dead aren’t rising or anything. Right?]]></description>
 		</game>
 		<boardgame>5 Tribes</boardgame>
 		<boardgame>Are You The Trator</boardgame>
@@ -752,11 +883,27 @@
 			<description><![CDATA[&nbsp;]]></description>
 		</gm>
 		<gm>
-			<name id=""/>
+			<name id="129">Jessica E.</name>
 			<description><![CDATA[&nbsp;]]></description>
 		</gm>
 		<gm>
-			<name id=""/>
+			<name id="130">Joe N.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="131">Jon-Mark J.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="132">Kerri F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="133">Malcom S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="134">Matthew D.</name>
 			<description><![CDATA[&nbsp;]]></description>
 		</gm>
 	</gamemasters>
