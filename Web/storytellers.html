@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="language" content="en-us" />
+    <meta name="description" content="Phantasm roleplaying convention held annualy in Peterborough Ontario Canada" />
+    <meta name="keywords" content="Phantasm, roleplaying convention, role-playing convention, Phantasm roleplaying convention" />
+    <meta name="robots" content="all" />
+    <meta name="author" content="Sara Manning, Bryan McKellar" />
+    <meta name="copyright" content="2018, Phantasm" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Events Schedule::Phantasm</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+
+</head>
+<body>
+    <!-- banner -->
+    <div class="center">
+        <img src="images/phantasmtopperworking.jpg" alt="Phantasm roleplaying convention" />
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col align-self-center">
+                <div id="menu"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col align-self-center">
+                <h2 id="heading">Story Tellers</h2>
+            </div>
+        </div>
+        <div class="row">
+            <table class='table table-responsive' aria-describedby="heading" id="tbStoryTellers">
+                <thead>
+                    <tr>
+                        <th id="thName" width='20%' rowspan="2">Name</th>
+                        <th id="thDescription" width='80%'>Description</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col align-self-center">
+                <div id="footer"></div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" id="pageRef" value="#l_storytellers" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON("schedule.json", function (data) {
+                $(data.storytellers).each(function () {
+                    var st = this;
+                    $("#tbStoryTellers tbody").append("<tr id='st" + st.Id + "'></tr>");
+                    $("#st" + st.Id).append("<td headers='thName'><a name='st" + st.Id + "' />" +st.Name);
+                    $("#st" + st.Id).append("<td headers='thDescription'>" + st.Description);
+                })
+
+                if (window.location.hash.length > 0) {
+                    location.href = location.hash;
+                }
+            });
+    });
+    </script>
+</body>
+</html>

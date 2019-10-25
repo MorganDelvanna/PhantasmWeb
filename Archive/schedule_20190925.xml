@@ -80,8 +80,8 @@
 		<game slot="2" id="8">
 			<name>Paranoia</name>
 			<gamemaster gmID="130">Rob H</gamemaster>
-			<title><![CDATA[Hot Fun in NRD Sector]]></title>
-			<description><![CDATA[Sierra Club operatives are messing with the food vats. Probably drugging the Infrareds so they’ll stop taking their happy pills, or even worse, stop bathing. Whatever it is, they have to be stopped!<br /> Sierra Club operatives are messing with the food vats. Probably drugging the Infrareds so they’ll stop taking their happy pills, or even worse, stop bathing. Whatever it is, they have to be stopped!]]></description>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
 		</game>
 		<game slot="2" id="9">
 			<name>D&amp;D 5e</name>
@@ -109,7 +109,7 @@
 		</game>
 		<game slot="2" id="13">
 			<name>Hero Clixs</name>
-			<gamemaster gmID="115">Dave C,</gamemaster>
+			<gamemaster gmID="115">Dave C.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[Based on the popular Mage Knights system, but utilizing super hero characters from the Marvel and DC Comics Universe.<br /><br />The game plays much like a miniatures game, but without the measure-and-move system or the constant consultation of hit charts. Rather, most of the vital statistical information is directly on the base of the characters, which can be rotated as characters take damage from hits.]]></description>
 		</game>
@@ -181,15 +181,15 @@
 		</game>
 		<game slot="3" id="25">
 			<name>Monster of the Week</name>
-			<gamemaster gmID="99">Dave G.</gamemaster>
+			<gamemaster gmID="133">Dave G.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[The Hunt For the Thessalhydra is a new adventure written from the perspective of the kids from Stranger Things but rather than playing as Fighters or Wizards, what if you were The Chosen One like Buffy or the Winchester brothers or someone from the X-Files? Find out how they react to The Upside-down and see if you can complete the quest.]]></description>
 		</game>
 		<game slot="3" id="26">
 			<name>D&amp;D 5e</name>
 			<gamemaster gmID="97">Derek M.</gamemaster>
-			<title><![CDATA[When Mages Fall]]></title>
-			<description><![CDATA[CCC-OAC-01-01<br />Fledgling mages are being struck down in Thentia, the City of Mages.<br />Rumors tie the deaths to the reappearance of an ancient artifact, the Bright Sword.<br />Can you get to the bottom of the mage slayings before the body count rises?<br />A Two- to Four-Hour Adventure for Tier 1 Characters, optimized for APL3.]]></description>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
 		</game>
 		<game slot="3" id="27">
 			<name>Solar Blades &amp; Cosmic Spells</name>
@@ -253,7 +253,7 @@
 		</game>
 		<game slot="4" id="37">
 			<name>The Mountain Witch</name>
-			<gamemaster gmID="29">James K.</gamemaster>
+			<gamemaster gmID="29">James K</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[It´s "Seven Samurai" meets "Reservoir Dogs" in this tabletop RPG about trust, betrayal, and confronting one´s fate. A group of ronin samurai unknown to each other are hired to climb Mount Fuji and kill the witch that lives at its summit. Yet, each samurai has a secret mission that may work against each other. When every heart holds betrayal, who can you trust? Treat yourself Saturday with this unsung indie RPG darling, with its innovative Trust mechanic and gripping, deadly samurai action.]]></description>
 		</game>
@@ -415,7 +415,7 @@
 		</game>
 		<game slot="6" id="64">
 			<name>Blades in the Dark</name>
-			<gamemaster gmID="99">Dave G.</gamemaster>
+			<gamemaster gmID="133">Dave G.</gamemaster>
 			<title><![CDATA[&nbsp;]]></title>
 			<description><![CDATA[At some point, centuries ago a Cataclysm occurred that blacked out the sun but now the only stars you can see are in the demon haunted Void Sea. The Dead walk the earth and it´s only by the grace of Electoplasmic fences to keep them at bay. Welcome to Duskvol, the city where you´ll play as gritty scoundrels trying to scrape a life out of the gutter expanding not just as a party but as a crew.]]></description>
 		</game>
@@ -428,8 +428,8 @@
 		<game slot="6" id="66">
 			<name>Paranoia</name>
 			<gamemaster gmID="130">Rob H</gamemaster>
-			<title><![CDATA[The Omega Site]]></title>
-			<description><![CDATA[Rumours of a cache of Old Reckoning technology found deep underground have all eight service groups racing to get to the bottom of what’s going on in sector NTS – literally. Only a crack team of Troubleshooters can keep the peace long enough to find out what’s actually down there.]]></description>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
 		</game>
 		<game slot="6" id="67">
 			<name>D&amp;D 5e</name>
@@ -1018,10 +1018,6 @@ I´m looking to immerse my players in the story and have three priorities in thi
 		</gm>
 		<gm>
 			<name id="133">Dave G.</name>
-			<description><![CDATA[&nbsp;]]></description>
-		</gm>
-		<gm>
-			<name id=""/>
 			<description><![CDATA[&nbsp;]]></description>
 		</gm>
 	</gamemasters>

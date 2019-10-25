@@ -11,7 +11,8 @@ function CreateMenu() {
     strMenu += '        <a class="nav-item nav-link" id="l_index" href="index.html" title="Home">Home</a>\n';
     strMenu += '        <a class="nav-item nav-link" id="l_schedule" href="schedule.html" title="Schedule">Schedule</a>\n';
     strMenu += '        <a class="nav-item nav-link" id="l_boardgames" href="boardgames.html" title="Board Games">Board Games</a>\n'
-    strMenu += '        <a class="nav-item nav-link" id="l_warhammer" href="warhammer.html" title="Warhammer 40K">Warhammer 40K</a>\n';
+    strMenu += '        <a class="nav-item nav-link" id="l_storytellers" href="storytellers.html" title="Story Tellers">Story Tellers</a>\n';
+    //strMenu += '        <a class="nav-item nav-link" id="l_warhammer" href="warhammer.html" title="Warhammer 40K">Warhammer 40K</a>\n';
     //strMenu += '        <a class="nav-item nav-link" id="l_warmahorde" href="warmahorde.html" title="Warmahordes">Warmahordes</a>\n';
     strMenu += '        <a class="nav-item nav-link" id="l_directions" href="accommodations.html" title="Directions / Accommodations">Directions/ Accommodations</a>\n';
     strMenu += '        <a class="nav-item nav-link" id="l_vendors" href="vendors.html" title="Vendors / Sponsors">Vendors/ Sponsors</a>\n';

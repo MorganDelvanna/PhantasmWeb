@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="schedule.xsl"?>
+<schedule>
+	<day id="1">
+		<date>September 26th, 2014</date>
+		<weekday>Friday</weekday>
+		<slot id="1">Evening 7:00 pm to 11:00 pm - Free admission Friday night</slot>
+	</day>
+	<day id="2">
+		<date>March 25th, 2017</date>
+		<weekday>Saturday</weekday>
+		<slot id="4">Evening 8:00 pm to 12:00 pm</slot>
+		<slot id="3">Afternoon 3:00 pm to 7:00 pm</slot>
+		<slot id="2">Morning 10:00 am to 2:00 pm</slot>
+		<note dayid="2">
+			<desc>
+				<![CDATA[
+                <b>Phantasm Yard Sale the Details:</b>
+                <ul>
+                    <li>Bring in your stuff &amp; we’ll sell it for you while you play.</li>
+                    <li>Yard Sale we be open from noon on Sat until 5pm on Sunday.</li>
+                    <li>You must have a list of what you are selling, with all of the prices on the items along with your initials (I’d suggest using stickers for this). All prices must be rounded to the nearest whole dollar.</li>
+                    <li>Phantasm holds no responsibility for the items (though we will have someone there &amp; no-one has ever stolen anything from a table), has the right to opt not to sell an item, and will keep 10% of the value of the items sold.</li>
+                </ul>]]>
+			</desc>
+		</note>
+	</day>
+	<day id="3">
+		<date>March 26th, 2017</date>
+		<weekday>Sunday</weekday>
+		<slot id="6">Afternoon 3:00 pm to 7:00 pm</slot>
+		<slot id="5">Morning 10:00 am to 2:00 pm</slot>
+		<note dayid="3">
+			<desc></desc>
+		</note>
+	</day>
+	<games>
+		<game slot="2" id="1">
+			<name>Metro City Blues</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Visiting pop star Ellen Aim has been kidnapped by Mad Gear. Are you bad enough dudes fight your way through underground gambling dens, biker bars, and dojos, to rescue her? Metro City Blues is a diceless roleplaying game about 20th century martial artists and their personal problems. It´s like roleplaying an overly-emotional 80s action movie like Jean Claude Van Damme´s Bloodsport, meets the video game Final Fight. Randomless, gritty, and multi-generational, this game will leave you feeling bruised, but victorious.]]></description>
+		</game>
+		<game slot="2" id="2">
+			<name>Shadowrun</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Faith in the Blood]]></title>
+			<description><![CDATA[The runners are dispatched to the Barrens after the son of a wealthy corporate executive goes missing, last seen heading into the squalor of Redmond.  Faced with the unexpected, the runners will need to decide whether the costs are worth the outcome.]]></description>
+		</game>
+		<game slot="2" id="3">
+			<name>AFMBE</name>
+			<gamemaster gmID="108">Jessika E.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Game not for the young or the faint of heart:<br /><br />The world is going to hell, so what else is new? Global warfare is about to break out, new super viruses on the rampage, and mass migrations leading to hordes of people flowing into countries to the point of rioting. Thank god you live in Canada, right? Well, maybe not. The government has opened the gates to anyone seeking asylum and the newest H1N3 virus is wreaking havoc among the young and elderly. What will you do when people start riots to get to the last bottle of cough syrup? How about when the vaccines are destroyed? With hospitals overrun and the threat of riots around every corner how will you survive when the world turns to chaos? At least the dead aren’t rising or anything. Right?]]></description>
+		</game>
+		<game slot="2" id="4">
+			<name>Pathfinder Adventure Card Game</name>
+			<gamemaster gmID="139">David C.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Launch a campaign to strike back against the evils plaguing Varisia with the Pathfinder Adventure Card Game: Rise of the Runelords - Base Set. This complete cooperative strategy card game pits 1 to 4 heroes against the traps, monsters, deadly magic, and despicable foes of the Pathfinder Roleplaying Game´s award-winning Rise of the Runelords Adventure Path. In this game players take the part of a fantasy character such as a rogue or wizard, each with varying skills and proficiencies that are represented by the cards in their deck. The classic ability scores (Strength, Dexterity, etc.) are assigned with different sized dice. Players can acquire allies, spells, weapons, and other items. The goal is to find and defeat a villain before a certain number of turns pass, with the villain being represented by its own deck of cards complete with challenges and foes that must be overcome. Characters grow stronger after each game, adding unique gear and awesome magic to their decks, and gaining incredible powers, all of which they´ll need to challenge greater threats in a complete Pathfinder Adventure Card Game Adventure Path.]]></description>
+		</game>
+		<game slot="2" id="5">
+			<name>Starfinder</name>
+			<gamemaster gmID="140">Terry B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The Forth Zone, commonly “the Lost Horizon” among the humans, consists of 38 star systems joined through space and time by mystic portals. The Lost Horizon of today is a melting pot of different cultures, peoples and factions.<br />ZENITH AND NADIR<br />Many hundreds of years ago, two colossal colonization vessels left Earth. Their names were Zenith and Nadir, and their destination the star Aldebaran. The crews lived their lives aboard the ships, through centuries of deep space travel. One of the ships, the Nadir, was knocked off course and prezumed lost somewhere in the darkness during the voyage, without leaving any trace. Inactuality the Nadir continued, alone, lost, and after traversing the empty void, finally reached a place to settle. Discovering they were not the first to arrive in the Lost Horizon.<br />They arrived in an already colonized cluster of star systems, linked by ancient portals. A long time after the departure of Nadir, they are the first humans to discover the existance of other life forms.<br />A chain reaction of explosions caused by an unknown source cut these newly discovered life forms of the Forth Zone off from a greater system of these portals, and through it a shortcut to what was known as the First, Second, Third and Fifth Zones.<br />Our heroes will be working for the Stewards as hired mercenaries aiding them to bring order to the 38 systems through out the Orion cluster. Using their choice of a 7th level pregenerated character.]]></description>
+		</game>
+		<game slot="2" id="6">
+			<name>Rifts</name>
+			<gamemaster gmID="141">Richard B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The coalition took your home. They came in heavy with fire and steel, killing most of your tribe.  You and the few survivors who had not been captured managed to regroup and assemble a small task force, ready to retake what was yours. You weren´t fast enough. On the eve of your assault, scouts report a red glow emanating from your old home. They found your secret. And now you have to contain it.]]></description>
+		</game>
+		<game slot="2" id="7">
+			<name>Cthulhu Dark</name>
+			<gamemaster gmID="31">Ian M.</gamemaster>
+			<title><![CDATA[The Sundered Veil]]></title>
+			<description><![CDATA["It´s the ´60´s, man, everyone´s experimenting.  You can expand your mind and help your country, too."  That was the line they used, the line that made you volunteer for "the Project."  You´ve been here, what?  Two months now?  You´ve seen things.  At first, it was a trip.  You felt free, unshackled from your mundane flesh, you explored concepts and sensations you didn´t know existed.  Then things started to get darker.  The things you saw, you didn´t want to see.  You´re pretty sure they can see you, too.... <br /><br />    The Sundered Veil is a scenario for Cthulhu Dark, a rules-light story telling system, for 3-6 players.  Characters will be developed together.  Gameplay may contain disturbing imagery and PvP content.]]></description>
+		</game>
+		<game slot="2" id="8">
+			<name>Zombicide: Black Plague</name>
+			<gamemaster gmID="102">Stu M.</gamemaster>
+			<title><![CDATA[Board Game]]></title>
+			<description><![CDATA[Zombicide: Black Plague allows you take control of paladins, dwarves, knights, and magicians, wielding powerful swords, crossbows, and even magic spells to defeat the zombie hordes and its Necromancer overlords. The classic Zombicide rules have been revamped for this new incarnation of the game, while still retaining the nonstop action, tense atmosphere and easy-to-learn rules that made Zombicide a classic. Equip your survivor with equipment like chainmail armor or shields to defend against the undead, pick up spell books to perform fantastic enchantments, or light up a pool of dragon bile to create an all-consuming inferno of dragon fire!<br /><br />Take on the zombie invasion from the medieval streets to secret vaults that create quick passages through the citadel (and often hold special artifacts). Chase down the elusive Necromancers to keep them from multiplying the zombie masses. And tackle a whole new set of missions through which your group of survivors will become the heroes of the land (or the last victims of the zombie massacre).]]></description>
+		</game>
+		<game slot="2" id="9">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="109">Dennis H.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA["Explore the lair of two famous adventurers who went missing 30 years ago. Sharpen your swords, prepare your spell compnents and prove your worth to Watetdeeps Adventurers guild known as the Delvers. A introduction to D&D 5e that is new player friendly . This will be a ongoing campaign. Each session will continue where the previous group left off. "]]></description>
+		</game>
+		<game slot="2" id="10">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="142">Nathan D.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[I believe that stories matter. That your story matters. That’s why I want to tell help tell a unique story for my fellows at Phantasm. The games I run combining D&D & 3d Printing for a unique role-playing experience. As each session finishes it will impact the actual map’s terrain and effects on the next game session. <br /><br />I will be running a 5th edition DnD game for players based in the fictional city of New Haven. Its for 3 – 5 players, all starting levels 1 – 5. You can play a single session, or apply to stay and see how the city grows. You can bring your own characters (see posters for suggestions) or stock characters provided. The unique aspect for the game, I have over 500 printed 3d tiles, building, figures & terrain. <br /><br />The city of new haven is set in a port city, that is small but well defended. It’s current seen a boom as a silver mine has been recently reopened but with wealth comes attention from goblins and others. The call has been sent out to adventures to seek fame and fortune.]]></description>
+		</game>
+		<game slot="2" id="11">
+			<name>Infinity: the game</name>
+			<gamemaster gmID="143">Rob E.</gamemaster>
+			<title><![CDATA[Minature Wargame]]></title>
+			<description><![CDATA[Infinity the game is a tabletop miniature wargame with 28mm scale metal miniatures that simulates combat and special operations in a Science fiction environment created by Gutier Lusquiños of Corvus Belli. The games aesthetics are largely inspired by Manga, particularly the work of Masamune Shirow.]]></description>
+		</game>
+		<game slot="2" id="12">
+			<name>Mutants and Masterminds 2nd Ed.</name>
+			<gamemaster gmID="104">Sean M.</gamemaster>
+			<title><![CDATA[A fun night out]]></title>
+			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok.<br />Title:  A fun night out<br />Wallers not playing anymore.  She has a line on an item of immense power and rarity so of course Waller sends in her most valued (snicker) unit.  When you learn your breaking into a club called “the Amphitheater”.]]></description>
+		</game>
+		<game slot="2" id="13">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="144">Ken B.</gamemaster>
+			<title><![CDATA[Cross Roads]]></title>
+			<description><![CDATA[level 5 adventure, Written by Ken Barton<br /><br />Its been a hard winter for your adventuring group and times are tough. But finally, with the winters thaw and the caravans have opened up the trade routes. You and your companions hire on to the first <br />Merchants leaving the town of Dunmore.  500 gold is worth keeping a few bandits away right??]]></description>
+		</game>
+		<game slot="2" id="14">
+			<name>Outpost</name>
+			<gamemaster gmID="26">Francis B.</gamemaster>
+			<title><![CDATA[Board Game]]></title>
+			<description><![CDATA[Outpost 2-9 player<br />You control an asteroid-based mining conglomerate, researching tech and building your production. Compete with other players for supplies and crush your opponents into space dust.]]></description>
+		</game>
+		<game slot="2" id="15">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="149">Michael V.</gamemaster>
+			<title><![CDATA[The Kids are Alright]]></title>
+			<description><![CDATA[1975, Montana at the foot of the Rockies. A bus returns from a youth field trip with all of the children safely in tow. Except for the three daughters of the town´s highest ranking citizens. Worried about their children, these parents (the players), follow the expedition leader back into the mountains to the archaeology site that the kids spent the day at. What mysteries lurk in the woods as evening settles down on the players? Why would the children sneak back to the base camp after the bus was loaded? Pre-gens provided. Set in Modern Cthulhu. Pre gens provided. (Call of Cthulhu 7th ed. 3-6 Players)]]></description>
+		</game>
+		<game slot="2" id="16">
+			<name>Sharp Swords &amp; Sinister Spells</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[The Isle of Desolation]]></title>
+			<description><![CDATA[For whatever reason you´ve found yourself aboard the ship of Slavers. Given the opportunity to escape, you took it, just as a savage storm hits. <br /><br />Finding yourself on the beaches after the wreckage of an unknown isle, you see smoke in the distance. Your only chance at salvation, may come at your own annihilation. <br /><br />Sharp Swords & Sinister Spells is an OSR inspired Sword & Sorcery adventure of High action and simple rules. Want to learn a system that takes 5 minutes to master? This is the system for you]]></description>
+		</game>
+		<game slot="2" id="17">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="150">Elias A.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[For the past week, a series of break-ins and midnight robberies have plagued the trade town of Kalwyc. The only thing stolen? Books: old books, new books, spell books, cook books, it appears the bibliomanic thieves care little for the value of their loot as their heists have grown increasingly ambitious.   <br /><br />With the townsfolk paranoid about the next attack, and the librarians trading accusations with the bookshop owners, you and your fellow adventurers have been roped in through obligation and the promise of too little reward to find the thieves , return the books to their rightful shelves, and put a stop to this nocturnal hijinx once and for all. Maybe then you´ll be able to get on with a real adventure. <br /><br /> <br />( Table size is limited to 3-6 players. For more experienced players looking to join in, feel free to bring your own level 2 character provided you feel they fit the adventure. There is some minor homebrew in play for the sake of the first timers, but that can be handled before the game starts) "]]></description>
+		</game>
+		<game slot="3" id="18">
+			<name>7th Sea</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Insurrection from Dust]]></title>
+			<description><![CDATA[Having rescued a young Crescent girl in their last adventure, the Heroes escort the family home, only to find themselves being caught up in local turmoil.  When approached by the Grand Vizier about a threat to the Sultan, the Heroes are set to work in a land of deserts, jinn and strange customs against a powerful insurgent.]]></description>
+		</game>
+		<game slot="3" id="19">
+			<name>Fate of the Norns</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Lo, for you are vikings living in Ragnarok, the end times. Three years ago wolves devoured the sun and moon. The world dwells in darkness and perpetual winter, awaiting the final battle that will end all. Before that happens, however, there are still battles to be fought and treasures won. Folklore whispers of a powerful monster terrorizing a local village. Who dares risk all to see out the end days in luxury? The RPG system of "Fate of the Norns: Ragnarok" uses the drawing of runes instead of dice rolls. It´s  easy to learn and intuitive in practice. New players make the best vikings! As a con exclusive, this game will include sneak-peak content from the "Creatures of Fairy Tale & Myth" bestiary set for release in summer 2019.]]></description>
+		</game>
+		<game slot="3" id="20">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="14">Craig M.</gamemaster>
+			<title><![CDATA[Grimm Assault]]></title>
+			<description><![CDATA[Too long has the Keep of Vilheim stood as a haven for evil. With Grimm determination, King Kikhum Grimm and his band of adventurers vow to bring it down.]]></description>
+		</game>
+		<game slot="3" id="21">
+			<name>Elemental</name>
+			<gamemaster gmID="73">Steve C.</gamemaster>
+			<title><![CDATA[BLACK SNOW AT DEUX OISEAUX (ELEMENTAL)]]></title>
+			<description><![CDATA[It is 1666, an ill-starred year. In the west, a city will burn. In the east, a church will fall. And in New France, a witness swears that on New Year´s Eve, he met Father Brebeouf, who died under torture years ago, on the road to Deux Oiseaux. Miracle? Abomination? A young Jesuit and his companions must investigate in partibus infidelium -- in the lands of the unbelievers.]]></description>
+		</game>
+		<game slot="3" id="22">
+			<name>Elemental</name>
+			<gamemaster gmID="145">Wil</gamemaster>
+			<title><![CDATA[Continuity]]></title>
+			<description><![CDATA[In space, there´s nowhere to run...<br /><br />A crew of researchers on a remote space station awaken in new bodies to discover that two weeks of their lives are missing. Time is running out as they must find out what happened to their previous selves--and deal with a looming threat.<br /><br />Continuity is the classic scenario that launched Eclipse Phase, the roleplaying game of transhuman conspiracy and horror. This new version of Continuity expands on the original and adapts it to the fast and flexible ELEMENTAL game system.]]></description>
+		</game>
+		<game slot="3" id="23">
+			<name>Pathfinder Adventure Card Game</name>
+			<gamemaster gmID="139">David C.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Launch a campaign to strike back against the evils plaguing Varisia with the Pathfinder Adventure Card Game: Rise of the Runelords - Base Set. This complete cooperative strategy card game pits 1 to 4 heroes against the traps, monsters, deadly magic, and despicable foes of the Pathfinder Roleplaying Game´s award-winning Rise of the Runelords Adventure Path. In this game players take the part of a fantasy character such as a rogue or wizard, each with varying skills and proficiencies that are represented by the cards in their deck. The classic ability scores (Strength, Dexterity, etc.) are assigned with different sized dice. Players can acquire allies, spells, weapons, and other items. The goal is to find and defeat a villain before a certain number of turns pass, with the villain being represented by its own deck of cards complete with challenges and foes that must be overcome. Characters grow stronger after each game, adding unique gear and awesome magic to their decks, and gaining incredible powers, all of which they´ll need to challenge greater threats in a complete Pathfinder Adventure Card Game Adventure Path.]]></description>
+		</game>
+		<game slot="3" id="24">
+			<name>Wrath and Glory (Warhammer 40k RPG)</name>
+			<gamemaster gmID="146">Jamieson B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="3" id="25">
+			<name>Call of Cthulhu 7e</name>
+			<gamemaster gmID="31">Ian M.</gamemaster>
+			<title><![CDATA[Down in Dunwich]]></title>
+			<description><![CDATA["So, I was passin´ through this hick town...Dunwich, I think it´s called.  Me and Jimmy Fingers, it was.  Anyways, we sees these lights off to the side of the road.  A lot of ´em.  So, we decides to check it out.  There´s like a dozen o´ these mooks carryin´ torches, others cartin´ these big crates.  They go one by one into this cave in the side of a hill.  Only one of the guys slips and drops his crate, and out tumbles a bunch o´ gold bars.  No foolin´.  One o´ the torch hicks cuffs ´im, he packs it back up and they finish dumpin´ this stuff in the cave.  Then they roll a board door over it and cover it with sod and sticks and stuff.  I´m tellin´ ya, it´s an easy score!"<br /><br />    Down in Dunwich is a scenario for Call of Cthulhu 7e, for 3-6 players.  Pre-generated characters will be provided.  Gameplay may contain disturbing imagery and PvP content.]]></description>
+		</game>
+		<game slot="3" id="26">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="109">Dennis H.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA["Explore the lair of two famous adventurers who went missing 30 years ago. Sharpen your swords, prepare your spell compnents and prove your worth to Watetdeeps Adventurers guild known as the Delvers. A introduction to D&D 5e that is new player friendly . This will be a ongoing campaign. Each session will continue where the previous group left off. "]]></description>
+		</game>
+		<game slot="3" id="27">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="142">Nathan D.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[I believe that stories matter. That your story matters. That’s why I want to tell help tell a unique story for my fellows at Phantasm. The games I run combining D&D & 3d Printing for a unique role-playing experience. As each session finishes it will impact the actual map’s terrain and effects on the next game session. <br /><br />I will be running a 5th edition DnD game for players based in the fictional city of New Haven. Its for 3 – 5 players, all starting levels 1 – 5. You can play a single session, or apply to stay and see how the city grows. You can bring your own characters (see posters for suggestions) or stock characters provided. The unique aspect for the game, I have over 500 printed 3d tiles, building, figures & terrain. <br /><br />The city of new haven is set in a port city, that is small but well defended. It’s current seen a boom as a silver mine has been recently reopened but with wealth comes attention from goblins and others. The call has been sent out to adventures to seek fame and fortune.]]></description>
+		</game>
+		<game slot="3" id="28">
+			<name>Infinity: the game</name>
+			<gamemaster gmID="143">Rob E.</gamemaster>
+			<title><![CDATA[Minature Wargame]]></title>
+			<description><![CDATA[Infinity the game is a tabletop miniature wargame with 28mm scale metal miniatures that simulates combat and special operations in a Science fiction environment created by Gutier Lusquiños of Corvus Belli. The games aesthetics are largely inspired by Manga, particularly the work of Masamune Shirow.]]></description>
+		</game>
+		<game slot="3" id="29">
+			<name>Mutants and Masterminds 2nd Ed.</name>
+			<gamemaster gmID="104">Sean M.</gamemaster>
+			<title><![CDATA[…but get the job done!]]></title>
+			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok.<br />Title: …but get the job done!<br />With the artifact collected, now its time for the prize!  With a short turn around, Waller unleashes the team on its prize.  Its not everyday you get to go to a remote tropical island.  If it wasn’t for the active volcano, it would be a perfect time for a vacation.]]></description>
+		</game>
+		<game slot="3" id="30">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="48">Joshua K.</gamemaster>
+			<title><![CDATA[Infinite Realms]]></title>
+			<description><![CDATA[A monster from another dimension attacks a nearby city. Zelackus prince of the Infinite Realms congratulates the heroes and beseeches there aid.<br />Create your planetary or cosmic tier heroes with the designer of the game and be prepared to save the world!]]></description>
+		</game>
+		<game slot="3" id="31">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="144">Ken B.</gamemaster>
+			<title><![CDATA[A Pirates Life for Me]]></title>
+			<description><![CDATA[Level 6 adventure , Written by Ken Barton<br /><br />The pirate King is dying, an heir must be found,  bring back the best booty and you shall be king!! Sail the Islands find the treasures and kill all in your way!!]]></description>
+		</game>
+		<game slot="3" id="32">
+			<name>The Wee Free Men</name>
+			<gamemaster gmID="132">Kerri F.</gamemaster>
+			<title><![CDATA[The Feegles are back!]]></title>
+			<description><![CDATA[It has been a quiet year for our band of small blue friends.  The mound has been safe, no exciting fights, not much to steal.  So the chief and his friends have decided to return to that Unseen University place, since it was so much fun last time.<br /><br />Run amok by drinking, stealing, and fighting your way through popular culture as a Nac Mac Feegle (from Pratchett´s Disc World)]]></description>
+		</game>
+		<game slot="3" id="33">
+			<name>Eclipse</name>
+			<gamemaster gmID="26">Francis B.</gamemaster>
+			<title><![CDATA[Board game]]></title>
+			<description><![CDATA[Eclipse 2-6 players<br />Establish colonies as you expand your space empire, discover new tech, fight both ancient death machines and other players. May the best man/machine/alien win!]]></description>
+		</game>
+		<game slot="3" id="34">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="149">Michael V.</gamemaster>
+			<title><![CDATA[Weekend in the Woods]]></title>
+			<description><![CDATA[1922, New Hampshire, deep in the Green Mountains. A bus drops off a dozen Boy Scouts from Arkham, Massachusetts to enjoy the last August weekend honing their skillcraft. The players, all scouts, have free reign of the lake, the lodge, and the campground. But it isn´t too long before the woods suggest threats unknown to the scout leaders as eventually, one by one, scouts start disappearing? Classic 1920s Cthulhu. Pre-gens provided. (Call of Cthulhu 7th ed. 4-6 Players)]]></description>
+		</game>
+		<game slot="3" id="35">
+			<name>Tales From The Loop</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[Creatures from the Cretaceous]]></title>
+			<description><![CDATA[The cold of winter rules the land. Kids with rosy cheeks have<br />snowball fights until they are called home to warmth and hot cocoa.<br />Skaters crisscross the ice-laden lake in leisure. One day, however, a<br />skater disappears into thin air. The Kids will discover that whatever<br />took him, might be better left undisturbed. <br />Tales From The Loop is the reward winning game of Weird Science and Youthful adventures in the 80s from Free League.]]></description>
+		</game>
+		<game slot="3" id="36">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="150">Elias A.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[For the past week, a series of break-ins and midnight robberies have plagued the trade town of Kalwyc. The only thing stolen? Books: old books, new books, spell books, cook books, it appears the bibliomanic thieves care little for the value of their loot as their heists have grown increasingly ambitious.   <br /><br />With the townsfolk paranoid about the next attack, and the librarians trading accusations with the bookshop owners, you and your fellow adventurers have been roped in through obligation and the promise of too little reward to find the thieves , return the books to their rightful shelves, and put a stop to this nocturnal hijinx once and for all. Maybe then you´ll be able to get on with a real adventure. <br /><br /> <br />( Table size is limited to 3-6 players. For more experienced players looking to join in, feel free to bring your own level 2 character provided you feel they fit the adventure. There is some minor homebrew in play for the sake of the first timers, but that can be handled before the game starts) "]]></description>
+		</game>
+		<game slot="4" id="37">
+			<name>Dragonfire</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Board game]]></title>
+			<description><![CDATA[Dragonfire is a cooperative deck-building game set within the world of Dungeons & Dragons. Players choose from a number of races — from dwarf to elf, half-orc to human — while assuming the quintessential roles of cleric, rogue, fighter, and wizard. Equipped with weapons, spells, and magic items, players begin their adventure along the famed Sword Coast, then expand to other locales across the Forgotten Realms, such as Baldur´s Gate, Neverwinter, and Waterdeep in future expansions. Along the way, players level up their characters, opening access to additional equipment, feats, and more. Join the quest, and build your own legend!]]></description>
+		</game>
+		<game slot="4" id="38">
+			<name>AFMBE</name>
+			<gamemaster gmID="108">Jessika E.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Game not for the young or the faint of heart:<br /><br />The world is going to hell, so what else is new? Global warfare is about to break out, new super viruses on the rampage, and mass migrations leading to hordes of people flowing into countries to the point of rioting. Thank god you live in Canada, right? Well, maybe not. The government has opened the gates to anyone seeking asylum and the newest H1N3 virus is wreaking havoc among the young and elderly. What will you do when people start riots to get to the last bottle of cough syrup? How about when the vaccines are destroyed? With hospitals overrun and the threat of riots around every corner how will you survive when the world turns to chaos? At least the dead aren’t rising or anything. Right?]]></description>
+		</game>
+		<game slot="4" id="39">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="4" id="40">
+			<name>Pathfinder Adventure Card Game</name>
+			<gamemaster gmID="139">David C.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Launch a campaign to strike back against the evils plaguing Varisia with the Pathfinder Adventure Card Game: Rise of the Runelords - Base Set. This complete cooperative strategy card game pits 1 to 4 heroes against the traps, monsters, deadly magic, and despicable foes of the Pathfinder Roleplaying Game´s award-winning Rise of the Runelords Adventure Path. In this game players take the part of a fantasy character such as a rogue or wizard, each with varying skills and proficiencies that are represented by the cards in their deck. The classic ability scores (Strength, Dexterity, etc.) are assigned with different sized dice. Players can acquire allies, spells, weapons, and other items. The goal is to find and defeat a villain before a certain number of turns pass, with the villain being represented by its own deck of cards complete with challenges and foes that must be overcome. Characters grow stronger after each game, adding unique gear and awesome magic to their decks, and gaining incredible powers, all of which they´ll need to challenge greater threats in a complete Pathfinder Adventure Card Game Adventure Path.]]></description>
+		</game>
+		<game slot="4" id="41">
+			<name>Starfinder</name>
+			<gamemaster gmID="140">Terry B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The Forth Zone, commonly “the Lost Horizon” among the humans, consists of 38 star systems joined through space and time by mystic portals. The Lost Horizon of today is a melting pot of different cultures, peoples and factions.<br />ZENITH AND NADIR<br />Many hundreds of years ago, two colossal colonization vessels left Earth. Their names were Zenith and Nadir, and their destination the star Aldebaran. The crews lived their lives aboard the ships, through centuries of deep space travel. One of the ships, the Nadir, was knocked off course and prezumed lost somewhere in the darkness during the voyage, without leaving any trace. Inactuality the Nadir continued, alone, lost, and after traversing the empty void, finally reached a place to settle. Discovering they were not the first to arrive in the Lost Horizon.<br />They arrived in an already colonized cluster of star systems, linked by ancient portals. A long time after the departure of Nadir, they are the first humans to discover the existance of other life forms.<br />A chain reaction of explosions caused by an unknown source cut these newly discovered life forms of the Forth Zone off from a greater system of these portals, and through it a shortcut to what was known as the First, Second, Third and Fifth Zones.<br />Our heroes will be working for the Stewards as hired mercenaries aiding them to bring order to the 38 systems through out the Orion cluster. Using their choice of a 7th level pregenerated character.]]></description>
+		</game>
+		<game slot="4" id="42">
+			<name>Wrath and Glory (Warhammer 40k RPG)</name>
+			<gamemaster gmID="146">Jamieson B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="4" id="43">
+			<name>Call of Cthulhu 7e</name>
+			<gamemaster gmID="31">Ian M.</gamemaster>
+			<title><![CDATA[In Media Res]]></title>
+			<description><![CDATA[You don´t know where you are...hell, you don´t know who you are.  There are others here, others you don´t know, standing around a table.  You don´t know why they´re covered in blood.  You do know is it´s dark out, the room you´re in is small and musty, and on the table in front of you is a horribly mutilated man in some sort of uniform.  Oh...and you seem to be wearing his face.<br /><br />    In Media Res is a scenario for Call of Cthulhu 7e, for 2-4 players.  Pre-generated character will be provided.  Gameplay may contain disturbing imagery and PvP content.]]></description>
+		</game>
+		<game slot="4" id="44">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="109">Dennis H.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA["Explore the lair of two famous adventurers who went missing 30 years ago. Sharpen your swords, prepare your spell compnents and prove your worth to Watetdeeps Adventurers guild known as the Delvers. A introduction to D&D 5e that is new player friendly . This will be a ongoing campaign. Each session will continue where the previous group left off. "]]></description>
+		</game>
+		<game slot="4" id="45">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="142">Nathan D.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[I believe that stories matter. That your story matters. That’s why I want to tell help tell a unique story for my fellows at Phantasm. The games I run combining D&D & 3d Printing for a unique role-playing experience. As each session finishes it will impact the actual map’s terrain and effects on the next game session. <br /><br />I will be running a 5th edition DnD game for players based in the fictional city of New Haven. Its for 3 – 5 players, all starting levels 1 – 5. You can play a single session, or apply to stay and see how the city grows. You can bring your own characters (see posters for suggestions) or stock characters provided. The unique aspect for the game, I have over 500 printed 3d tiles, building, figures & terrain. <br /><br />The city of new haven is set in a port city, that is small but well defended. It’s current seen a boom as a silver mine has been recently reopened but with wealth comes attention from goblins and others. The call has been sent out to adventures to seek fame and fortune.]]></description>
+		</game>
+		<game slot="4" id="46">
+			<name>Infinity: the game</name>
+			<gamemaster gmID="143">Rob E.</gamemaster>
+			<title><![CDATA[Minature Wargame]]></title>
+			<description><![CDATA[Infinity the game is a tabletop miniature wargame with 28mm scale metal miniatures that simulates combat and special operations in a Science fiction environment created by Gutier Lusquiños of Corvus Belli. The games aesthetics are largely inspired by Manga, particularly the work of Masamune Shirow.]]></description>
+		</game>
+		<game slot="4" id="47">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="48">Joshua K.</gamemaster>
+			<title><![CDATA[The Experiment]]></title>
+			<description><![CDATA[The heroes are helping Dr. Newton with an experiment that goes terribly wrong; or was it deliberate sabotage?<br />Join the designer of Simple Superheroes and unleash your creativity by creating your own superhero!]]></description>
+		</game>
+		<game slot="4" id="48">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="144">Ken B.</gamemaster>
+			<title><![CDATA[Lost Caverns]]></title>
+			<description><![CDATA[Level 4 Adventure , Written By Ken Barton<br /><br />The king is furious, the prince has been captured by the mad Wizard Bakazar, taken deep into his lost caverns, you heros must defeat the wizard and return the Prince. If its possible you will be richly rewarded and owed a favour by the king himself.]]></description>
+		</game>
+		<game slot="4" id="49">
+			<name>Vampire 5th ed</name>
+			<gamemaster gmID="104">Sean M.</gamemaster>
+			<title><![CDATA[Fangs First Tour]]></title>
+			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. <br />There is nothing like the first tour of a band.  Inspired by a game run at Phantasm, a band of wandering Caitiff have secured the rights to play all the top spots in Canada and the US.  Ottawa was just supposed to be just another stop on the tour.  Shame the Prince of Ottawa doesn’t feel the same way.]]></description>
+		</game>
+		<game slot="4" id="50">
+			<name>Manila - Pandemic (Cthulhu)</name>
+			<gamemaster gmID="26">Francis B.</gamemaster>
+			<title><![CDATA[Board game]]></title>
+			<description><![CDATA[Manila 2-5 players (60 min)<br />Run a philipino smuggling operation past your spanish rulers. A very fun, quick, interactive and competitive game.<br />Pandemic: Cthulu 2-4 players (60 min)<br />A co-operative game. The players travel the world trying to stop Cthulu horrors and crazed cultists from overrunning the world]]></description>
+		</game>
+		<game slot="4" id="51">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="149">Michael V.</gamemaster>
+			<title><![CDATA[Those Within]]></title>
+			<description><![CDATA[Set in the 1895 lead mining village of Ninebanks, nestled in the isolated moors of Northumberland, England. The scenario opens in the middle of the village’s annual harvest supper, during which a friend of the investigators falls deathly ill, spewing an ichorous vomit. The town drunk raves that this is a curse on the whole village, but is something else to blame? Pre-gens provided. Set in Gaslight era Cthulhu. Pre-gens provided. (Call of Cthulhu 7th ed. 3-6 Players)]]></description>
+		</game>
+		<game slot="5" id="52">
+			<name>Metro City Blues</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Visiting pop star Ellen Aim has been kidnapped by Mad Gear. Are you bad enough dudes fight your way through underground gambling dens, biker bars, and dojos, to rescue her? Metro City Blues is a diceless roleplaying game about 20th century martial artists and their personal problems. It´s like roleplaying an overly-emotional 80s action movie like Jean Claude Van Damme´s Bloodsport, meets the video game Final Fight. Randomless, gritty, and multi-generational, this game will leave you feeling bruised, but victorious.]]></description>
+		</game>
+		<game slot="5" id="53">
+			<name>Shadowrun</name>
+			<gamemaster gmID="40">Jason M.</gamemaster>
+			<title><![CDATA[Digital Disparity]]></title>
+			<description><![CDATA[Ares has been having a rough year with public failures and rumours of internal atrocities.  In order to shift the public perception, the runners are asked to steal an Evo prototype destined for their extraterrestrial projects, in hopes of gaining some positive headlines.  Is all of this worth a glowing review?]]></description>
+		</game>
+		<game slot="5" id="54">
+			<name>AFMBE</name>
+			<gamemaster gmID="108">Jessika E.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Game not for the young or the faint of heart:<br /><br />The world is going to hell, so what else is new? Global warfare is about to break out, new super viruses on the rampage, and mass migrations leading to hordes of people flowing into countries to the point of rioting. Thank god you live in Canada, right? Well, maybe not. The government has opened the gates to anyone seeking asylum and the newest H1N3 virus is wreaking havoc among the young and elderly. What will you do when people start riots to get to the last bottle of cough syrup? How about when the vaccines are destroyed? With hospitals overrun and the threat of riots around every corner how will you survive when the world turns to chaos? At least the dead aren’t rising or anything. Right?]]></description>
+		</game>
+		<game slot="5" id="55">
+			<name>Dungeons &amp; Dragons</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[It is time for the annual Disney Princesses Ball, everyone is invited to the country of  Arendelle to the castle of Queen Elsa. Let the fun begin.]]></description>
+		</game>
+		<game slot="5" id="56">
+			<name>Zombicide</name>
+			<gamemaster gmID="91">Trevor L.</gamemaster>
+			<title><![CDATA[Board Game]]></title>
+			<description><![CDATA[Zombicide is a collaborative game in which players take the role of a survivor – each with unique abilities – and harness both their skills and the power of teamwork against the hordes of unthinking undead! Zombies are predictable, stupid but deadly, controlled by simple rules and a deck of cards. Unfortunately for you, there are a LOT more zombies than you have bullets.]]></description>
+		</game>
+		<game slot="5" id="57">
+			<name>Rifts</name>
+			<gamemaster gmID="141">Richard B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The coalition took your home. They came in heavy with fire and steel, killing most of your tribe.  You and the few survivors who had not been captured managed to regroup and assemble a small task force, ready to retake what was yours. You weren´t fast enough. On the eve of your assault, scouts report a red glow emanating from your old home. They found your secret. And now you have to contain it.]]></description>
+		</game>
+		<game slot="5" id="58">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="107">Alec M.</gamemaster>
+			<title><![CDATA[A Red Heist]]></title>
+			<description><![CDATA[The Dormount family is famous for their wealth. And their life of luxurious parties and gatherings. A client hires your crew to steal an artifact, a giant ruby the size of an apple. Lucky for you, there is another party coming up and your client managed to get you a couple of invites. Should be an easy job… Right?]]></description>
+		</game>
+		<game slot="5" id="59">
+			<name>7th Seas 1st Ed.</name>
+			<gamemaster gmID="104">Sean M.</gamemaster>
+			<title><![CDATA[There’s the Test…]]></title>
+			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok.<br />Title: There’s the Test…<br />Its always difficult to find really good playing jobs.  Its worse when the same job is offered to 9 other crews.  The job is a relatively simple on, get into a hut in a small encampment on a remote island off the coast of Vodacci.  There is much to plan, lets set sail.]]></description>
+		</game>
+		<game slot="5" id="60">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="48">Joshua K.</gamemaster>
+			<title><![CDATA[Infinite Realms]]></title>
+			<description><![CDATA[A monster from another dimension attacks a nearby city. Zelackus prince of the Infinite Realms congratulates the heroes and beseeches there aid.<br />Create your planetary or cosmic tier heroes with the designer of the game and be prepared to save the world!]]></description>
+		</game>
+		<game slot="5" id="61">
+			<name>Pulp Cthulhu</name>
+			<gamemaster gmID="149">Michael V.</gamemaster>
+			<title><![CDATA[The Outlaws of Desolation Peak (Pulp Cthulhu)]]></title>
+			<description><![CDATA[1871 New Mexico Territory. Pinkerton agents have been sent to kill or capture the notorious outlaw Black Jack Ketchum by the Twin Mining Company. It is time to stop the depredations his gang have played on the miners and ore shipments. But he isn´t so easy to find, the investigators discover. Set in the Old West and ties in with Down Darker Trails (no knowledge of this supplement needed). Uses the Pulp Cthulhu rules (will be taught at table). Pre-gens provided. (Call of Cthulhu 7th ed. - Pulp Cthulhu, 4-6 Players)]]></description>
+		</game>
+		<game slot="5" id="62">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="147">James H.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Simple superheros, simple character creation with a d6 system. Create a hero how you want to, your imagination is the limit to your character and powers.]]></description>
+		</game>
+		<game slot="5" id="63">
+			<name>Flying D6s</name>
+			<gamemaster gmID="144">Ken B.</gamemaster>
+			<title><![CDATA[Edge of the Waste land (FALLOUT)]]></title>
+			<description><![CDATA[This an introduction into Ken Bartons D6 multi-Genre Gaming system, Fast and fun this module is Based off the popular video game Fallout, we bring you the Edge of the Wasteland!. Become a band of survivors in the wastelands, vaulty, raider, homesteader, Ghoul, supermutant or synth. Fight to survive the post-apocalyptic world in flying D6s adaptation of FALLOUT!!<br /><br />Generate wasteland characters and experience the post-apocalyptic video game world in a role playing setting. Explore and Survive.]]></description>
+		</game>
+		<game slot="5" id="64">
+			<name>Wandering Monster High</name>
+			<gamemaster gmID="47">Jordan G.</gamemaster>
+			<title><![CDATA[Just Another Day in Monster High]]></title>
+			<description><![CDATA[Thought High School was bad? Try High School populated with Dragons, Golems, Undead, Gnomes, Bugbears and Gelatinous Oozes.<br />WMH is a simple to play game where you play your favourite D&D monster in High School, struggling to pass classes like Ancient History, Advanced Looting & Pillaging, and Math. Will your Character achieve his goal of the Presidency of the Mad Science Club? Will you get crowned King at the Monster Mash? Will your application at Cult College be accepted? Sign up and find out<br />Thought High School was bad? Try High School populated with Dragons, Golems, Undead, Gnomes, Bugbears and Gelatinous Oozes.<br />WMH is a simple to play game where you play your favourite D&D monster in High School, struggling to pass classes like Ancient History, Advanced Looting & Pillaging, and Math. Will your Character achieve his goal of the Presidency of the Mad Science Club? Will you get crowned King at the Monster Mash? Will your application at Cult College be accepted? Sign up and find out]]></description>
+		</game>
+		<game slot="5" id="65">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="150">Elias A.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[For the past week, a series of break-ins and midnight robberies have plagued the trade town of Kalwyc. The only thing stolen? Books: old books, new books, spell books, cook books, it appears the bibliomanic thieves care little for the value of their loot as their heists have grown increasingly ambitious.   <br /><br />With the townsfolk paranoid about the next attack, and the librarians trading accusations with the bookshop owners, you and your fellow adventurers have been roped in through obligation and the promise of too little reward to find the thieves , return the books to their rightful shelves, and put a stop to this nocturnal hijinx once and for all. Maybe then you´ll be able to get on with a real adventure. <br /><br /> <br />( Table size is limited to 3-6 players. For more experienced players looking to join in, feel free to bring your own level 2 character provided you feel they fit the adventure. There is some minor homebrew in play for the sake of the first timers, but that can be handled before the game starts) "]]></description>
+		</game>
+		<game slot="6" id="66">
+			<name>Fate of the Norns</name>
+			<gamemaster gmID="35">James K.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Lo, for you are vikings living in Ragnarok, the end times. Three years ago wolves devoured the sun and moon. The world dwells in darkness and perpetual winter, awaiting the final battle that will end all. Before that happens, however, there are still battles to be fought and treasures won. Folklore whispers of a powerful monster terrorizing a local village. Who dares risk all to see out the end days in luxury? The RPG system of "Fate of the Norns: Ragnarok" uses the drawing of runes instead of dice rolls. It´s  easy to learn and intuitive in practice. New players make the best vikings! As a con exclusive, this game will include sneak-peak content from the "Creatures of Fairy Tale & Myth" bestiary set for release in summer 2019.]]></description>
+		</game>
+		<game slot="6" id="67">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="14">Craig M.</gamemaster>
+			<title><![CDATA[Grimm Assault]]></title>
+			<description><![CDATA[Too long has the Keep of Vilheim stood as a haven for evil. With Grimm determination, King Kikhum Grimm and his band of adventurers vow to bring it down.]]></description>
+		</game>
+		<game slot="6" id="68">
+			<name>Elemental</name>
+			<gamemaster gmID="73">Steve C.</gamemaster>
+			<title><![CDATA[BLACK SNOW AT DEUX OISEAUX (ELEMENTAL)]]></title>
+			<description><![CDATA[It is 1666, an ill-starred year. In the west, a city will burn. In the east, a church will fall. And in New France, a witness swears that on New Year´s Eve, he met Father Brebeouf, who died under torture years ago, on the road to Deux Oiseaux. Miracle? Abomination? A young Jesuit and his companions must investigate in partibus infidelium -- in the lands of the unbelievers.]]></description>
+		</game>
+		<game slot="6" id="69">
+			<name>Elemental</name>
+			<gamemaster gmID="145">Wil</gamemaster>
+			<title><![CDATA[Continuity]]></title>
+			<description><![CDATA[In space, there´s nowhere to run...<br /><br />A crew of researchers on a remote space station awaken in new bodies to discover that two weeks of their lives are missing. Time is running out as they must find out what happened to their previous selves--and deal with a looming threat.<br /><br />Continuity is the classic scenario that launched Eclipse Phase, the roleplaying game of transhuman conspiracy and horror. This new version of Continuity expands on the original and adapts it to the fast and flexible ELEMENTAL game system.]]></description>
+		</game>
+		<game slot="6" id="70">
+			<name>Bryan's 3rd game</name>
+			<gamemaster gmID="7">Bryan M.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[&nbsp;]]></description>
+		</game>
+		<game slot="6" id="71">
+			<name>Pathfinder Adventure Card Game</name>
+			<gamemaster gmID="139">David C.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Launch a campaign to strike back against the evils plaguing Varisia with the Pathfinder Adventure Card Game: Rise of the Runelords - Base Set. This complete cooperative strategy card game pits 1 to 4 heroes against the traps, monsters, deadly magic, and despicable foes of the Pathfinder Roleplaying Game´s award-winning Rise of the Runelords Adventure Path. In this game players take the part of a fantasy character such as a rogue or wizard, each with varying skills and proficiencies that are represented by the cards in their deck. The classic ability scores (Strength, Dexterity, etc.) are assigned with different sized dice. Players can acquire allies, spells, weapons, and other items. The goal is to find and defeat a villain before a certain number of turns pass, with the villain being represented by its own deck of cards complete with challenges and foes that must be overcome. Characters grow stronger after each game, adding unique gear and awesome magic to their decks, and gaining incredible powers, all of which they´ll need to challenge greater threats in a complete Pathfinder Adventure Card Game Adventure Path.]]></description>
+		</game>
+		<game slot="6" id="72">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="107">Alec M.</gamemaster>
+			<title><![CDATA[Adventures in Middle Earth]]></title>
+			<description><![CDATA[Its been five years since the battle of the five armies. King Bard holds a festival to celebrate the alliance of men, elves and dwarves who defeated the goblin hoards. Men, elves, and other wandering folk travel to lake town from across middle earth. And yet, the forces of shadow are not yet defeated. In the land of Morder the spirit of the dark lord stirs…]]></description>
+		</game>
+		<game slot="6" id="73">
+			<name>Rifts</name>
+			<gamemaster gmID="141">Richard B.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[The coalition took your home. They came in heavy with fire and steel, killing most of your tribe.  You and the few survivors who had not been captured managed to regroup and assemble a small task force, ready to retake what was yours. You weren´t fast enough. On the eve of your assault, scouts report a red glow emanating from your old home. They found your secret. And now you have to contain it..]]></description>
+		</game>
+		<game slot="6" id="74">
+			<name>Arcadia Quest</name>
+			<gamemaster gmID="91">Trevor L.</gamemaster>
+			<title><![CDATA[Board Game]]></title>
+			<description><![CDATA[Arcadia Quest is a campaign-based game for 2 to 4 players, where each player controls a guild of three unique heroes, facing off against the other players and the various monsters controlled by the game. Players need to accomplish a series of quests in order to win each scenario and choose where to go next in the campaign.]]></description>
+		</game>
+		<game slot="6" id="75">
+			<name>7th Seas 1st Ed.</name>
+			<gamemaster gmID="104">Sean M.</gamemaster>
+			<title><![CDATA[…and then there is the score!]]></title>
+			<description><![CDATA[WARNING: this game is not approved for children or young adults without parental supervision. Game will include adult themes, ultra violence and subject matter not meant for the sensitive. By sitting down you agree that you understand these things will happen and you’re ok.<br />Title: …and then there is the score!<br />Well with the dry run done, now down to the brass tax and do it for real.  You’ve already done this once, how could it go badly on this run.  Time for everyone to earn their pay!  Trim the main sail and stay out of davey jones locker.]]></description>
+		</game>
+		<game slot="6" id="76">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="148">Chris L.</gamemaster>
+			<title><![CDATA[Monster Fight at the Wizard Convention]]></title>
+			<description><![CDATA[Once every 999 years, the greatest wizards on the material plane gather under a banner of peace to compete for a chance to win fame and fortune at the underwhelmingly named Wizard Convention. The Fireball Competition is a perenial favorite, and don´t miss the Invisible Tag free-for-all (great for kids!). But the real action goes down at the Monster Dome, where cunning wizards assemble and deploy teams of monsters plucked from all across the multi-verse to fight for your amusement! <br /><br />YOU are one such wizard. You and your assigned teammates will be choosing monsters, making those monsters fight each other, making those monsters fight monsters chosen by other teams, using those monsters to defend against angry or greedy wizards looking to crash the convention, or maybe using them to take over the convention yourself. In between ever more complicated bouts, you are free to wander the fair and sample the wares, but don´t poke around too much or you´ll start to realize that the grand prize isn´t the only thing at stake...]]></description>
+		</game>
+		<game slot="6" id="77">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="48">Joshua K.</gamemaster>
+			<title><![CDATA[The Experiment]]></title>
+			<description><![CDATA[The heroes are helping Dr. Newton with an experiment that goes terribly wrong; or was it deliberate sabotage?<br />Join the designer of Simple Superheroes and unleash your creativity by creating your own superhero!]]></description>
+		</game>
+		<game slot="6" id="78">
+			<name>Post Apocalyptic Pups</name>
+			<gamemaster gmID="132">Kerri F.</gamemaster>
+			<title><![CDATA[Escape from Toronto]]></title>
+			<description><![CDATA[Its been almost 5 years since a devastating apocalypse has swept through and decimated the humans.  You and your pack of furry friends need to move better territory.  Toronto has been picked clean and the few humans left want to hunt you down and eat you.  But where can you go?  Do you believe a cat telling you of land to the north where humans still want dogs and there are belly rubs to enjoy and balls to chase?]]></description>
+		</game>
+		<game slot="6" id="79">
+			<name>Simple Superheroes</name>
+			<gamemaster gmID="147">James H.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[Simple superheros, simple character creation with a d6 system. Create a hero how you want to, your imagination is the limit to your character and powers.]]></description>
+		</game>
+		<game slot="6" id="80">
+			<name>Flying D6s</name>
+			<gamemaster gmID="144">Ken B.</gamemaster>
+			<title><![CDATA[Survive (Walking Dead)]]></title>
+			<description><![CDATA[Ever wonder what your character would be like in the TV series Walking Dead? Here’s your chance.<br />This an introduction into Ken Bartons D6 multi-Genre Gaming system, Fast and fun this module is Based off the popular tv series WALKING DEAD, we Bring you SURVIVE!!  <br /><br />Create a character in a world over run with zombies, Kill, run, survive!!!]]></description>
+		</game>
+		<game slot="6" id="81">
+			<name>Call of Cthulhu</name>
+			<gamemaster gmID="149">Michael V.</gamemaster>
+			<title><![CDATA[Ides of Winter]]></title>
+			<description><![CDATA[Soon after arriving by train in Northumberland, the investigators are embroiled in a mysterious death at a local pub. But even once that is solved, mysterious events and the appearance of ghosts lead them to believe more is afoot. Classic 1920s Cthulhu. Pre-gens provided. (Call of Cthu﻿lhu 7th ed. 4-6 Players)]]></description>
+		</game>
+		<game slot="6" id="82">
+			<name>D&amp;D 5e</name>
+			<gamemaster gmID="150">Elias A.</gamemaster>
+			<title><![CDATA[&nbsp;]]></title>
+			<description><![CDATA[For the past week, a series of break-ins and midnight robberies have plagued the trade town of Kalwyc. The only thing stolen? Books: old books, new books, spell books, cook books, it appears the bibliomanic thieves care little for the value of their loot as their heists have grown increasingly ambitious.   <br /><br />With the townsfolk paranoid about the next attack, and the librarians trading accusations with the bookshop owners, you and your fellow adventurers have been roped in through obligation and the promise of too little reward to find the thieves , return the books to their rightful shelves, and put a stop to this nocturnal hijinx once and for all. Maybe then you´ll be able to get on with a real adventure. <br /><br /> <br />( Table size is limited to 3-6 players. For more experienced players looking to join in, feel free to bring your own level 2 character provided you feel they fit the adventure. There is some minor homebrew in play for the sake of the first timers, but that can be handled before the game starts) "]]></description>
+		</game>
+		<boardgame>5 Tribes</boardgame>
+		<boardgame>Are You The Trator</boardgame>
+		<boardgame>Asteroyds</boardgame>
+		<boardgame>Black Friday </boardgame>
+		<boardgame>Boxcars</boardgame>
+		<boardgame>Cargo Noir</boardgame>
+		<boardgame>Caveman</boardgame>
+		<boardgame>Cinque Terre</boardgame>
+		<boardgame>Dominion</boardgame>
+		<boardgame>Dungeoneer</boardgame>
+		<boardgame>Dust</boardgame>
+		<boardgame>Flux</boardgame>
+		<boardgame>Furstenfeld</boardgame>
+		<boardgame>Gang of Four</boardgame>
+		<boardgame>Loch Ness</boardgame>
+		<boardgame>Memoir 44</boardgame>
+		<boardgame>Mousquetaires du Roy</boardgame>
+		<boardgame>Once Upon a Time</boardgame>
+		<boardgame>Pantheon</boardgame>
+		<boardgame>Piñata </boardgame>
+		<boardgame>Pirates Cove</boardgame>
+		<boardgame>Pressure cooker</boardgame>
+		<boardgame>Puerto Rico</boardgame>
+		<boardgame>RanKing</boardgame>
+		<boardgame>Relic Runners</boardgame>
+		<boardgame>Shadows over camelot</boardgame>
+		<boardgame>The Heavens of Olympus</boardgame>
+		<boardgame>Those Pesky Garden Gnomes</boardgame>
+		<boardgame>War Hammer Invasion</boardgame>
+	</games>
+	<gamemasters>
+		<gm>
+			<name id="1">Adam G.</name>
+			<description><![CDATA[Adam started roleplaying when he was 8, and has played or GM´d in many systems, including Pathfinder, D20 Modern, Top Secret, Marvel and every version of D&D. He loves character and story driven games, and enjoys creatively interpreting rules whenever pla]]></description>
+		</gm>
+		<gm>
+			<name id="3">Andrew W.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="4">Andrew Y.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="5">Brian F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="7">Bryan M.</name>
+			<description><![CDATA[For more than five years Bryan has been taking childhood memories and warping them into twisted games, that are just too much fun to pass up.]]></description>
+		</gm>
+		<gm>
+			<name id="8">Chris C.</name>
+			<description><![CDATA[Chris won the story teller of the year award in 2002 and next year will be publishing his first RPG game “Knights of the Hidden Sun”. Whenever you get the chance play with this man his games are too fun to pass up.]]></description>
+		</gm>
+		<gm>
+			<name id="9">Chris M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="10">Chris T.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="12">Cody M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="13">Corey R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="14">Craig M.</name>
+			<description><![CDATA[Craig is a old school story teller, who has been running games for us every year since the first year of the convention. His game are quite fun, well worth checking out.]]></description>
+		</gm>
+		<gm>
+			<name id="15">Darcy B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="16">Dave M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="18">David E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="19">David L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="20">David W.</name>
+			<description><![CDATA[Gaming started for me in grade two (2) when I played a mage that was magically teleported to the front of a roman legion. So I fireballed them. My GM (also in grade 2) wasn´t to good with area calculations or math in general. So I vanquished the whole le]]></description>
+		</gm>
+		<gm>
+			<name id="21">Duncan J</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="23">Ed Greenwood</name>
+			<description><![CDATA[Ed Greenwood is the creator of the Forgotten Realms fantasy world, which became the setting for his home D&D game in 1975. Play still continues in this long-running campaign, and Ed also keeps busy producing Realmslore for various TSR publications. Ed]]></description>
+		</gm>
+		<gm>
+			<name id="24">Erik W.</name>
+			<description><![CDATA[Erik W, wrote as his blurb "Erik likes reading, playing, discussing, and playtesting new games.  He has participated in playtests for Esoterrorists, Trail of Cthulhu, and Heroquest.  He looks forward to returning to Peterborough." Personally I think Eric]]></description>
+		</gm>
+		<gm>
+			<name id="25">Erica M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="26">Francis B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="27">George B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="28">Graham R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="29">Greg S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="30">Greig A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="31">Ian M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="33">James</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="34">James A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="35">James K.</name>
+			<description><![CDATA[In 1987 James Kerr placed a peanut butter sandwich in his parent´s VCR and was transported to a magical world where he was taught by long-dead druids the secrets of dice rolling, community, and dungeon mastership. Returning to this world he has been playi]]></description>
+		</gm>
+		<gm>
+			<name id="39">Jason B.</name>
+			<description><![CDATA[is a deviant mind of the highest caliber who has been running LARP for Phantasm for 7 years.]]></description>
+		</gm>
+		<gm>
+			<name id="40">Jason M.</name>
+			<description><![CDATA[is a two-time winner of the Hammer of Plot and overall awesome human being.  He is a GM that is all about keeping his players entertained.  His material is light on planning and heavy on over-the-top action.  If you attend Phantasm, you owe it to yourself]]></description>
+		</gm>
+		<gm>
+			<name id="41">Jayson P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="42">Jean Marc S.</name>
+			<description><![CDATA[Jean-Marc has been coming out to the con for a while now and always is a con favourite. He runs a number of games of his own creation like \"Fallout\".]]></description>
+		</gm>
+		<gm>
+			<name id="43">Jeff C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="45">Jon-Mark J</name>
+			<description><![CDATA[If we could find a way to harness this man’s energy we would solve the energy crisis hands down. Jon Mark runs a high energy game full of drama where hero exemplify what it is to be a hero.]]></description>
+		</gm>
+		<gm>
+			<name id="46">Jon Moore</name>
+			<description><![CDATA[Jon has been playing and running games since he was 12 and purchased the D&D Red Box in a whim, over 20 years ago.  Moving quickly from D&D to Rifts, he owns a metric ton of all manner of Palladium Source material. Now well-dedicated to the GURPS system,]]></description>
+		</gm>
+		<gm>
+			<name id="47">Jordan G.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="48">Joshua K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="49">Justin L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="52">Lawrence M.</name>
+			<description><![CDATA[Lawrence we got from Orion, and we’re quite glad to have him. He runs D20 Cthulu for us, and puts a ton of effort into it.]]></description>
+		</gm>
+		<gm>
+			<name id="53">Lawrence W.</name>
+			<description><![CDATA[Lawrence Whitaker has been role-playing since the ice sheets started to recede and claims he has a genuine knuckle-bone d20 - although this might not be true. What is true is that Lawrence has over 25 years of experience as a player, GM and games writer.]]></description>
+		</gm>
+		<gm>
+			<name id="56">Malcolm S.</name>
+			<description><![CDATA[Malcolm Sheppard has been writing and designing roleplaying games for about a decade, beginning with material for White Wolf´s classic Mage: The Ascension line. Since then he´s gone to work on the current World of Darkness (Mage, Changeling and Geist),]]></description>
+		</gm>
+		<gm>
+			<name id="59">Mike C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="60">Mike K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="61">Mike M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="63">Nick S.</name>
+			<description><![CDATA[Nick puts a ton of effort and play testing into his games, its great to see a table get drawn into one of his woven tales.]]></description>
+		</gm>
+		<gm>
+			<name id="64">Paige W.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="65">Paul G.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="66">Peter L.</name>
+			<description><![CDATA[Peter L is a old school GM with a new school feel. He runs great games that focus on fun and letting the PC´s be hero´s who can do cool things.]]></description>
+		</gm>
+		<gm>
+			<name id="68">Rebecca Z.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="70">Robert H</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="71">Roland K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="73">Steve C.</name>
+			<description><![CDATA[Steve runs these great games that focus around the players and build on their actions. If you get a chance you have to try some of the games of Steve\’s own design, they are pretty fun.]]></description>
+		</gm>
+		<gm>
+			<name id="74">Steve E.</name>
+			<description><![CDATA[Steve has the largest RPG collection I’ve ever seen. He loves to dive into new games and settings. When he runs a game he focuses entirely on the story and player’s enjoyment, the rules come second.]]></description>
+		</gm>
+		<gm>
+			<name id="75">John P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="76">Michel L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="78">Frank O</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="79">Jay L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="81">David R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="82">Mattie A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="83">Derek H.</name>
+			<description><![CDATA[Derek has always been gaming in some sort of capacity. He picked up D&D in 1980 and started to DM in 1983 and has not stopped playing since. He´s played Traveller, GURPS and all kinds of wierd wonderful RPGs. While still playing D&D/Pathfinder to this day]]></description>
+		</gm>
+		<gm>
+			<name id="84">Jared K</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="85">Eddy K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="57">Matt Clark</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="86">Greg L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="87">Kat J.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="88">Mark R.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="89">Pathfinder Society</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="90">Jacob H.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="91">Trevor L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="92">Peterborough X-Wing Squadron</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="93">James L.</name>
+			<description><![CDATA[Been away for a couple of years.  I am happy to be running a few events again for Phantasm. I am looking to try and get Palladium Books some recognition again as here in Peterborough it really is not known well at all.]]></description>
+		</gm>
+		<gm>
+			<name id="94">Bryan C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="95">Tom T.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="97">Jaymz L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="98">Shawn L.</name>
+			<description><![CDATA[I am currently a Press Ganger for Privateer Press, which is to say that I am a volunteer gameplay coordinator for Privateer Press Products. I´ve been doing this officially for just under a year, but have been demoing Privateer Press Products for three. I have been plying RPGs since I was 12 with an old copy of 1st edition Advanced Dungeons and Dragons, and have played multiple RPGs over the past 23 years both as a PC and as a Game Master. I expanded into Miniature war gaming with Warhammer 40,00 with an Eldar and a Space Wolves Army. I decided that after surviving the supposed end of the world of 2012, I felt that a great reward for my survivability would be learning to play a new game. I started playing Hordes and then moved to Include Warmachine. Recently I have started to add the iron Kingdoms RPG to my repertoire of games supported and have had a fantastic time hosting and playing this RPG.]]></description>
+		</gm>
+		<gm>
+			<name id="99">Matthew K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="100">TBA</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="101">Scott B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="102">Stu M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="103">Jeff K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="104">Sean M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="105">Andrew V.</name>
+			<description><![CDATA[Gamer since the early 80’s and designer since the early 90’s. Best known works are the Fate of the Norns line of games: Ragnarok, Gulveig and Vigridr.]]></description>
+		</gm>
+		<gm>
+			<name id="106">Dan K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="107">Alec M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="108">Jessika E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="109">Dennis H.</name>
+			<description><![CDATA[I have an extensive background running a wide range of game systems. Starting with AD&D in the early 80´s and branching off in to other systems such as Warhammer Fantasy Roleplay, Gurps, Rolemaster, Rifts, Recon, Palladium, Shadowrun, Star Wars d6(west end) and many others. I have DM every version of D&D and I am currently the Local coordinator for D&D 5e for the Belleville area. I have run games at a variety of cons over the years Knight March, Orion, and of course Phantasm." I prefer to run games then play in them smile emoticon]]></description>
+		</gm>
+		<gm>
+			<name id="110">Eugene F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="111">Jeff P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="112">Lance S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="113">Paul K.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="114">Anthony U.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="115">Rolando M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="116">Dale D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="117">Ian P.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="118">Irene M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="119">Alex M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="120">Derek M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="121">Xavier D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="122">Adventurers League</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="123">Adam M.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="124">Rob S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="125">Rob H.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="127">Allison S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="128">Jessica F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="129">Jessica E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="130">Joe N.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="131">Jon-Mark J.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="132">Kerri F.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="133">Malcom S.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="134">Matthew D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="135">Wil G.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="136">Greg N.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="137">Jeff &amp; Dave</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="138">Dave C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="139">David C.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="140">Terry B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="141">Richard B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="142">Nathan D.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="143">Rob E.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="144">Ken B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="145">Wil</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="146">Jamieson B.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="147">James H.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="148">Chris L.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="149">Michael V.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+		<gm>
+			<name id="150">Elias A.</name>
+			<description><![CDATA[&nbsp;]]></description>
+		</gm>
+	</gamemasters>
+</schedule>

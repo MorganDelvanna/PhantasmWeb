@@ -16,10 +16,9 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="shortcut icon" href="images/favicon.ico" />
 
-    <script type="text/javascript" src="js/jquery-3.2.1.min.js" defer></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"  defer></script>
-    <script type="text/javascript" src="js/common.js" defer></script>
-
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
 </head>
 <body>
     <div class="center">
@@ -35,47 +34,31 @@
         <div class="row">
             <div class="col align-self-center">
                 <h1>Board Games</h1>
-
+                <div class="row">
+                    <div class="col-6" style="text-align: right"><img src="/images/boardgames2.jpg" height="374" /></div>
+                    <div class="col-6"><img src="/images/boardgames1.jpg" height="374" /></div>
+                </div>
                 <ul>
-                    <li>Bring out a handful of your own favorite games, to play or teach in our pick up game area, and get $10 off the cost of a weekend pass.</li>
                     <li>We will be having a large area open for pick up games.</li>
                     <li>We will have our Board Game Library and Librarians on hand all weekend. Sign out a game to try using quick play rules or get a Librarian to teach you something new.</li>
                     <li>Play to win games will be available. Everytime you play one of these games you will have a chance to win it!</li>
                     <li>Bring in your games or other geeky items for sale in the "Phantasm Yard Sale". Items will be displayed and sold for you by our staff, while you play. Items must be priced to the nearest whole dollar, and we retain 10% of the sale price.</li>
+                    <li>2019 Kennerspiel des Jahres Winner "Wing Span", is one of our play-to-wins <br />
+                        <div class="center"><img src="/images/3d-wingspan.png" height="291" width="285" alt='2019 Kennerspiel des Jahres Winner "Wing Span"' /></div></li>
                 </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col col-sm-12 align-self-center">
-                <img src="images/CatanEventImageHeadersCanada.jpeg" class="center" />
-            </div>
-        </div>
-        <div class="row">
-            <div class="col align-self-center">
-                <p>
-                    Settlers of Catan National Qualifying Event<br />
-                    Starts April 14th, 2018 @ 10:30 am<br />
-                    Holiday Inn Waterfront, Peterborough<br />
-                </p>
-                <p>
-                    First prize is: free entry to the the finals and Fan Expo in Toronto, travel to the event and shared accommodation.
-                </p>
-
             </div>
         </div>
     </div>
     <div id="tbBoardGames" class="container-fluid">
 
     </div>
-
-
         <!-- footer -->
         <div id="footer">
         </div>
         <!-- /footer -->
 
     <input type="hidden" id="pageRef" value="#l_boardgames" />
-    <script language="javascript" type="text/javascript">
+    <script type="text/javascript">
     $(document).ready(function () {
         $.ajax({
             type: "GET",
@@ -86,18 +69,18 @@
 
         function parseXml(xml) {
 
-            var column = 0;
+            var column = 0;        
 
             $(xml).find("games").find("boardgame").each(function () {
                 if (column == 0) {
-                    $("#tbBoardgames").append("<div class='row'>");
+                    $("#tbBoardGames").append("<div class='row'>");
                 }
 
-                $("#tbBoardgames").find("div.row:last").append("<div class='col'>" + $(this).text() + "</div>");
+                $("#tbBoardGames").find("div.row:last").append("<div class='col'>" + $(this).text() + "</div>");
                 column += 1;
 
                 if (column == 3) {
-                    $("#tbBoardgames").append("</row>");
+                    $("#tbBoardGames").append("</row>");
                     column = 0;
                 }
             });
