@@ -16,10 +16,16 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="shortcut icon" href="images/favicon.ico" />
     <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script> 
+    <script src="https://kit.fontawesome.com/d6116d49a8.js" crossorigin="anonymous"></script>
 </head>
 <body>
         <div class="center">
-            <img src="images/phantasmtopperworking.jpg" alt="Phantasm roleplaying convention" />
+            <div class="d-none d-sm-block">
+                <img src="images/phantasmtopperworking.jpg" alt="Phantasm Roleplaying Convention" />
+            </div>
+            <div class="d-block d-sm-none">
+                <img class="img-fluid" src="images/phantasmtoppermobile.jpg" alt="Phantasm Roleplaying Convention" />
+            </div>
         </div>
 
         <div class="container">
@@ -36,20 +42,41 @@
                         Phantasm is a Sci-Fi and Fantasy Role Playing
                         Convention in Peterborough, Ontario, Canada.<br />
                     </p>
-                    <h2 class="event">Gamer's Equinox</h2>
+
+                    <div>
+                        <h2 class="event">Phantasm 30th</h2>
+                        <p style="text-align: center; font-size:large">
+                            Oct 16th 2021<br />
+                        </p>
+                    </div>
+
+                    <!--<div class="flip-card center">
+        <div id="card-1" class="flip-card-inner">
+            <div class="float-right"><span><i class="fas fa-undo"></i></span></div>
+            <div class="flip-card-front">
+                <h2 class="event">Gamer's Equinox</h2>
+                <p style="text-align: center; font-size:large">
+                    April 18-19 2020 <br />
+                </p>
+
+        </div>
+        <div class="flip-card-back">
+            <h2 class="event">Phantasm 30th</h2>
+            <p style="text-align: center; font-size:large">
+                Sept 25, 26, 27 2020<br />
+            </p>
+        </div>
+    </div>
+                </div>-->
+
+
                     <p style="text-align: center; font-size:large">
-                        April 18-19 2020 <br />
-                    </p>
-                    <h2 class="event">Phantasm 28</h2>
-                    <p style="text-align: center; font-size:large">
-                        Sept 25, 26, 27 2020<br />
-                    </p>
-                    <p style="text-align: center; font-size:large">
+                        <!--Friday 7:00 PM - 11:00 PM--><br />
                         Saturday 10:00 AM - 12:00 Midnight<br />
-                        Sunday 10:00 AM - 8:00 PM<br />
+                        <!--Sunday 10:00 AM - 8:00 PM--><br />
                         McDonnel St Activity Center, 577 McDonnel St, Peterborough<br />
                         <br />
-                        Cost is $40 for the weekend, $25 for Saturday, $15 for Sunday, or $8 per session.
+                        Cost is $30
                     </p>
                     <p style="text-align: center; font-size:large">
                         Bring a Friend to Phantasm<br />
@@ -58,23 +85,16 @@
                         </span><br />
                     </p>
                 </div>
+                </div>
             </div>
             <div class="row">
-                <div class="col-sm-12 col-lg-5 ">
-                    <span class="float-right">
-                        <span class="center">
-                            <a href="schedule.html">Check out the Phantasm Schedule</a><br />
-                            <a href="http://www.facebook.com/groups/2407176646/" target="_blank">
-                                <img alt="Facebook" src="images/FaceBook_48x48.png" style="border:0; display:block; margin-left: auto; margin-right: auto;" />
-                            </a>
-                        </span>
-                    </span>
-                </div>
-                <div class="col-sm-12 col-lg-2 text-center">
-                    <span class="event">or</span>
-                </div>
-                <div class="col-sm-12 col-lg-5">
-                    <a href="warhammer.html"><img src="images/Warhmmer40K.gif" alt="Warhammer 40K logo is property of Games Workshop" /></a>
+                <div class="col-12">
+                    <div class="center">
+                        <a href="schedule.html">Check out the Phantasm Schedule</a><br />
+                        <a href="http://www.facebook.com/groups/2407176646/" target="_blank">
+                            <img alt="Facebook" src="images/FaceBook_48x48.png" style="border:0; display:block; margin-left: auto; margin-right: auto;" />
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -87,9 +107,25 @@
 
         <div id="footer"></div>
 
-        <script type="text/javascript" src="js/bootstrap.min.js" ></script>
-        <script type="text/javascript" src="js/common.js" ></script>
-        <input type="hidden" id="pageRef" value="#l_index" />
+    <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="js/common.js" ></script>
+    <script type="text/javascript">
+        $(function () {
+            $('.flip-card').on('click',
+                function () {
+                    $(this).toggleClass('flipped');
+                }
+            )
+
+            var today = new Date();
+            console.log(today.getMonth());
+            if (today.getMonth() >= 3 && today.getMonth() <= 8) {
+                $('.flip-card').toggleClass('flipped');
+            }
+        });
+    </script>
+    <input type="hidden" id="pageRef" value="#l_index" />
 </body>
   
 </html>

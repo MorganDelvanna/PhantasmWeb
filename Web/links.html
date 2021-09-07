@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -52,16 +52,14 @@
         <div class="row">
             <div class="col">
                 <h1>Story Tellers</h1>
-                <table class="table-responsive" id="tbST">
+                <table class='table table-responsive' aria-describedby="heading" id="tbStoryTellers">
                     <thead>
                         <tr>
-                            <th scope="col" width="30%">Game Master</th>
-                            <th scope="col">Description</th>
+                            <th id="thName" width='20%' rowspan="2">Name</th>
+                            <th id="thDescription" width='80%'>Description</th>
                         </tr>
                     </thead>
-                    <tbody>
-
-                    </tbody>
+                    <tbody></tbody>
                 </table>
             </div>
         </div>
@@ -77,24 +75,18 @@
     <script type="text/javascript" src="js/common.js"></script>
     <script language="javascript" type="text/javascript" defer>
         $(document).ready(function () {
-            $.ajax({
-                type: "GET",
-                url: "schedule.xml",
-                dataType: "xml",
-                success: parseXml
+            $.getJSON("schedule.json", function (data) {
+                $(data.storytellers).each(function () {
+                    var st = this;
+                    $("#tbStoryTellers tbody").append("<tr id='st" + st.Id + "'></tr>");
+                    $("#st" + st.Id).append("<td headers='thName'><a name='st" + st.Id + "' />" + st.Name);
+                    $("#st" + st.Id).append("<td headers='thDescription'>" + st.Description);
+                })
+
+                if (window.location.hash.length > 0) {
+                    location.href = location.hash;
+                }
             });
-
-            function parseXml(xml) {
-                var column = 0;
-
-                $(xml).find("gamemasters").find("gm").each(function () {
-                    var gmID = $(this).find("name").attr("id");
-
-                    $("#tbST").find("tbody").append("<tr id='ST" + gmID + "'>");
-                    $("#ST" + gmID).append("<td><a name='gm" + gmID + "'/>" + $(this).find("name").text());
-                    $("#ST" + gmID).append("<td>" + $(this).find("description").text());
-                });
-            }
         });
     </script>
 

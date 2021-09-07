@@ -32,12 +32,10 @@
         <div class="row">
             <div class="col align-self-center">
                 <h1>Events Schedule</h1>
-                <p>Phantasm uses a <a href="content/Xcard.pdf" target="_blank">"X-Card"</a> at all of its tables. It is meant as a way to make players feel safe to play in an unfamiliar setting. If the card is tapped the GM may flip to the next scene, fade to black, or call a short break to be able to discuss things with the player, etc. Whatever they deem most appropriate for the moment. The GM is not expected to change the plot of their story, but consider incorporating alterations that do not effect plot, but lead to player comfort. This is not a democratic process.<br />
-                <br />
-                It gives everyone an easy out. An exit strategy. An easy way to say no without (or with less) peer pressure. The X-card creates a specific mood at the table. It says “We’re here together. If you need to stop, we’ll stop. The people playing are more important than the game we are playing.”<br />
-                <br />
-                This is by no means intended as a means of censorship nor to limit creativity at the table. Nor is it there to judge the GM. With the combination of all our gamers and stories, there are literally limitless situations that will occur. Some of those situations may trigger a memory or moment that is sensitive to the player. </p>
-                <p>No outside food or drink allowed</p>
+                <p>Phantasm uses a <a href="content/Xcard.pdf" target="_blank">"X-Card"</a> at all of its tables. It is meant as a way to make players feel safe to play in an unfamiliar setting. If the card is tapped the GM may flip to the next scene, fade to black, or call a short break to be able to discuss things with the player, etc. Whatever they deem most appropriate for the moment. The GM is not expected to change the plot of their story, but consider incorporating alterations that do not effect plot, but lead to player comfort. This is not a democratic process.</p>
+                <p>It gives everyone an easy out. An exit strategy. An easy way to say no without (or with less) peer pressure. The X-card creates a specific mood at the table. It says “We’re here together. If you need to stop, we’ll stop. The people playing are more important than the game we are playing.”</p>
+                <p>No sexism may be directed towards a player in the game. If your justification is “it’s historically accurate” or “it’s what my character would do” you need to stop and think of the enjoyment of the other players at the table.</p>
+                <p>No intoxication or inebriation by alcohol, drugs or other sources. This is a family event.</p>
             </div>
         </div>
         <div class="row">
@@ -112,7 +110,7 @@
                             }                           
                             $("#tbSlot" + slot.Id + ' tbody').append("<tr id='game" + game.Id + "'>");
                             $("#game" + game.Id).append("<td headers='thGame" + slot.Id + "' rowspan='2'>" + game.GameType);
-                            $("#game" + game.Id).append("<td headers='thGM" + slot.Id + "' ><a href='/storytellers.html#st" + game.StoryTellerId + "'>" + game.StoryTellerName + "</a>");
+                            $("#game" + game.Id).append("<td headers='thGM" + slot.Id + "' ><a href='/links.html#st" + game.StoryTellerId + "'>" + game.StoryTellerName + "</a>");
                             $("#game" + game.Id).append("<td headers='thTitle" + slot.Id + "'>" + game.Title);
                             $("#tbSlot" + slot.Id + ' tbody').append("<tr id='gameb" + game.Id + "'>")
                             $("#gameb" + game.Id).append("<td headers='thDescription" + slot.Id + "' colspan='2'>" + game.Description);
